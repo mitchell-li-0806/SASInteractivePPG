@@ -1229,6 +1229,142 @@
         "prerequisites": "Semester I grade of B or higher in AP Computer Science or AT Computer Science."
     },
     {
+        "id": 45015,
+        "title": "AT Spanish II: LatAm History and Culture",
+        "grade": 11,
+        "eligibleGrades": [
+            11,
+            12
+        ],
+        "credits": {
+            "World Languages": 1,
+            "Advanced Studies": 1
+        },
+        "length": "Year",
+        "mandatory": false,
+        "note": "All students new to SAS will be invited for a placement test to determine the most appropriate level.",
+        "description": "This inquiry-based course intends to provide students with the opportunity to develop and apply their Spanish language skills by studying selected eras of Hispano American history and Hispano American iconic figures. Additionally the use of Arts, Literature, and Cinema will provide a platform for analysing and exploring cultural viewpoints. The course seeks to build on language abilities, with a focus on cultural competency, textual and artistic analysis, and collaborative skills through project-based learning. The study of literature, visual arts, films, and media in their historical context, will also enable students to develop critical thinking skills and to express themselves in Spanish with enhanced sophistication.",
+        "prerequisites": "Current teacher recommendation based on demonstrated proficiency level of Advanced Low or higher." 
+    },
+    {
+        "id": 45023,
+        "title": "AP French Language & Culture",
+        "grade": 9,
+        "eligibleGrades": [
+            9,
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "World Languages": 1,
+            "Advanced Studies": 1  
+        },
+        "length": "Year",
+        "mandatory": false,
+        "note": "Grade 11 students who have completed at least one year in the Intermediate High course may select this course for grade 12 without a teacher recommendation. Students in grades 9 and 10 still require a teacher recommendation. All students new to SAS will be invited for a placement test to determine the most appropriate level.",
+        "description": "This AP course is comparable to a fourth semester college course in French. The course prepares students to demonstrate their level of French proficiency with a higher degree of accuracy and fluency across the three communicative modes: spoken and written interpersonal communication; audio, visual and audiovisual interpretive communication; and spoken and written presentational communication. Students will also hone their ability to comprehend and communicate in formal and informal contexts reflective of the richness of French Speaking countries’ language and cultures. The study of literature, visual arts, films, and media in their historical context, will also enable students to develop critical thinking skills and to express themselves in French with enhanced sophistication. Instructional materials and activities are carefully and strategically adapted from authentic sources to support the linguistic and cultural goals of the course. Students will be prepared for and strongly encouraged to sit for the AP exam in May.",
+        "prerequisites": "Current teacher recommendation based on demonstrated proficiency and progress toward the exit target."
+    },
+    {
+        "id": 45024,
+        "title": "AP Spanish Language & Culture",
+        "grade": 9,
+        "eligibleGrades": [
+            9,
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "World Languages": 1,
+            "Advanced Studies": 1
+        },
+        "length": "Year",
+        "mandatory": false,
+        "note": "Grade 11 students who have completed at least one year in the Intermediate High course may select this course for grade 12 without a teacher recommendation. Students in grades 9 and 10 still require a teacher recommendation. All students new to SAS will be invited for a placement test to determine the most appropriate level.",
+        "description": "This AP course is comparable to a fourth semester college course in Spanish. The course prepares students to demonstrate their level of Spanish proficiency with a higher degree of accuracy and fluency across the three communicative modes: spoken and written interpersonal communication; audio, visual, and audiovisual interpretive communication; and spoken and written presentational communication. Students will also hone their ability to comprehend and communicate in formal and informal contexts reflective of the richness of Hispanic language and cultures. Instructional materials and activities are carefully and strategically adapted from authentic sources to support the linguistic and cultural goals of the course. The study of literature, visual arts, films, and media in their historical context, will also enable students to develop critical thinking skills and to express themselves in Spanish with enhanced sophistication. Students will be prepared for and strongly encouraged to sit for the AP exam in May.",
+        "prerequisites": "Current teacher recommendation based on demonstrated proficiency and progress toward the exit target."
+    },
+    {
+        "id": 45025,
+        "title": "AP Chinese Language & Culture",
+        "grade": 9,
+        "eligibleGrades": [
+            9,
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "World Languages": 1,
+            "Advanced Studies": 1
+        },
+        "length": "Year",
+        "mandatory": false,
+        "note": "Grade 11 students who have completed at least one year in the Intermediate High course may select this course for grade 12 without a teacher recommendation. Students in grades 9 and 10 still require a teacher recommendation. All students new to SAS will be invited for a placement test to determine the most appropriate level.",
+        "description": "AP Chinese is designed to be comparable to fourth semester university courses in Mandarin Chinese. The course prepares students to demonstrate their level of Chinese proficiency across the three communicative modes (interpersonal, interpretive, and presentational) and the five goal areas (communication, cultures, connections, comparisons, and communities). Students are provided with ongoing and varied opportunities to further develop their proficiencies across the full range of language skills within a cultural frame of reference. Materials and activities are adapted from authentic sources to support the linguistic and cultural goals of the course. Both contemporary and historical Chinese culture are explored. Students will be prepared for and strongly encouraged to sit for the AP exam in May.",
+        "prerequisites": "Current teacher recommendation based on demonstrated proficiency and progress toward the exit target."
+    },
+    {
+        "id": 45029,
+        "title": "AT Chinese Language: History",
+        "grade": 11,
+        "eligibleGrades": [
+            11,
+            12
+        ],
+        "credits": {
+            "World Languages": 1,
+            "Advanced Studies": 1
+        },
+        "length": "Year",
+        "mandatory": false,
+        "note": "All students new to SAS will be invited for a placement test to determine the most appropriate level.",
+        "description": "This course builds on the foundation students develop in AT Media and Society and provides a smooth transition into historical study. Students explore China’s rich history of cross-cultural exchange and its interactions with the wider world. The level of rigor of this course has been modified to direclty follow AT Media and Society, and students coming from AT Media and Society will be well-prepared to take this course. It is designed to develop skills at a manageable pace and prepare students for the next course in the sequence, AT Chinese Literature. Throughout the course, students explore how China has interacted with the rest of the world over time. Using research and analytical skills they have already learned, students investigate topics that genuinely interest them. Along the way, they reconsider common global perceptions and stereotypes through a historical lens. Students demonstrate their learning through a project each semester on a topic of their choice. These projects include a research essay and an oral presentation, helping students build confidence in sharing their ideas, supporting their conclusions with evidence, and presenting their work in a supportive classroom environment.",
+        "prerequisites": "Current teacher recommendation based on demonstrated proficiency levels of Advanced low or higher in all four skills."
+    },
+    {
+        "id": 45034,
+        "title": "AT Chinese I",
+        "grade": 9,
+        "eligibleGrades": [
+            9,
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "World Languages": 1,
+            "Advanced Studies": 1
+        },
+        "length": "Year",
+        "mandatory": false,
+        "note": "All students new to SAS will be invited for a placement test to determine the most appropriate level.",
+        "description": "AT Chinese I is a college-level, student-driven course designed to strengthen language proficiency through project-based learning. Students explore real-world contexts and develop critical thinking by engaging with a wide variety of authentic materials, allowing for a deepened cultural understanding and proficiency. In this project-based course, students critically engage with diverse, authentic materials that reflect contemporary society and explore complex social issues. Through multimedia resources, text analysis, fieldwork, and creative expression and presentation, students develop advanced skills in listening, speaking, reading, and writing.",
+        "prerequisites": "Current teacher recommendation based on demonstrated proficiency and progress toward the exit target."
+    },
+    {
+        "id": 45035,
+        "title": "AT Chinese II",
+        "grade": 9,
+        "eligibleGrades": [
+            9,
+            10,
+            11,
+            12      
+        ],
+        "credits": {
+            "World Languages": 1,
+            "Advanced Studies": 1
+        },
+        "length": "Year",
+        "mandatory": false,
+        "note": "All students new to SAS will be invited for a placement test to determine the most appropriate level.",
+        "description": "This advanced course serves as the demanding, student-driven continuation of the Advanced Chinese 1 (AT1) curriculum, further expanding the skills required for high-level academic study and communication. Students are immersed in real-world contexts and explore complex social issues through critical engagement with diverse, multi-modal authentic materials that reflect contemporary global and Chinese society. Through this project-based learning structure, students deepen their proficiency and develop sophisticated critical thinking by analyzing four complex units—Global Perspective and Cultural Diversity, Media and Pop Culture, Lifestyle and Well-being, and Customs and Traditions—which require the evaluation of conflicting cultural values, societal pressures on mental health, and generational relationship dynamics. The course’s rigorous framework emphasizes in-depth analysis, evidence-based argumentation, and advanced expression in listening, speaking, reading, and writing, ensuring readiness for university-level discourse.",
+        "prerequisites": "Current teacher recommendation based on demonstrated proficiency and progress toward the exit target."
+    },
+    {
         "id": 45037,
         "title": "AT Chinese Language: Media & Society",
         "grade": 9,
@@ -1359,6 +1495,26 @@
         "note": "Dependent on enrollment numbers these courses may be scheduled concurrently with other intermediate classes of the same language. When a class is scheduled concurrently, students will receive differentiated instruction to meet their needs, will receive credit for the level of the class in which they are enrolled, and that is the course that will appear on their transcript. All students new to SAS will be invited for a placement test to determine the most appropriate level.",
         "description": "These courses are for students who have demonstrated a solid Intermediate Mid level of proficiency in interpersonal listening and speaking. With differentiation and new culturally rich thematic units each year, teachers engage with and support students by meeting them where they are at in the proficiency building process. While this course continues to emphasize interpersonal listening and speaking, interpretive listening and reading, and presentational writing, these skills are more formally developed and assessed at the intermediate high level. Intermediate High speakers are able to successfully handle uncomplicated tasks and social situations requiring an exchange of information about their school, recreation, particular interests, and areas of competence. They also demonstrate an increasing ability to express their own ideas about some topics beyond themselves such as current events or matters of public and community interest. Students at this level also demonstrate the ability to resolve problems they might encounter in their daily lives. Intermediate High students will learn to narrate and describe in three major time frames - present, past, and future - mostly in connected paragraphs.",
         "prerequisites": "Current teacher recommendation based on demonstrated proficiency and progress toward the exit target."
+    },
+    {
+        "id": 45049,
+        "title": "AT Spanish Language: Contemporary Social Issues",
+        "grade": 9,
+        "eligibleGrades": [
+            9,
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "World Languages": 1,
+            "Advanced Studies": 1
+        },
+        "length": "Year",
+        "mandatory": false,
+        "note": "All students new to SAS will be invited for a placement test to determine the most appropriate level.",
+        "description": "This inquiry-based course invites students to strengthen and apply their Spanish language skills through the exploration of pressing social issues in the contemporary Spanish-speaking world. Using authentic sources such as art, journalism, and digital media, students will analyze how communities and individuals navigate complex topics including gender roles, machismo, ethics in science, and the influence of rhetoric and media manipulation. The course emphasizes the use of language as a tool for critical thought and social engagement, fostering both linguistic accuracy and intercultural awareness. Through projectbased learning and collaborative inquiry, students will develop their interpretive and presentational skills while exploring art in political contexts as a form of protest and global dialogue. Ultimately, the course aims to deepen students’ ability to express nuanced ideas in Spanish and to reflect thoughtfully on contemporary cultural and ethical dilemmas.",
+        "prerequisites": "Current teacher recommendation based on demonstrated Intermediate High proficiency level and progress toward the exit target."
     },
     {
         "id": 45050,
@@ -1623,6 +1779,95 @@
         "prerequisites": "None"
     },
     {
+        "id": 46208,
+        "title": "Wind Ensemble",
+        "grade": 9,
+        "eligibleGrades": [
+            9,
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "Visual & Performing Arts": 1
+        },
+        "length": "Year",
+        "mandatory": false,
+        "description": "Wind Ensemble is a very advanced band course for serious musicians who wish to challenge their skills with more difficult music. They play a varied repertoire of classical and popular music and will be encouraged to do solo and small ensemble performances as well. The Wind Ensemble represents the school in the community through concerts and programs. All Wind Ensemble members are required to attend all scheduled dress rehearsals, performances, including after school, evenings or weekends.",
+        "prerequisites": "Audition"
+    },
+    {
+        "id": 46210,
+        "title": "Symphonic Band",
+        "grade": 9,
+        "eligibleGrades": [
+            9,
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "Visual & Performing Arts": 1
+        },
+        "length": "Year",
+        "mandatory": false,
+        "description": "Symphonic Band is an audition-based group for intermediate to advanced musicians who wish to challenge their skills with more difficult music. The band will perform in four major concerts during the year, playing a variety of musical styles ranging from popular to classical. All Symphonic Band members are required to attend all scheduled dress rehearsals, performances, including after school or weekends.",
+        "prerequisites": "Audition or completion of Concert Band with a B or higher."
+    },
+    {
+        "id": 46305,
+        "title": "Theater: Production - Acting",
+        "grade": 9,
+        "eligibleGrades": [
+            9,
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "Visual & Performing Arts": 0.5
+        },
+        "length": "Semester",
+        "mandatory": false,
+        "description": "The ensemble is the foundation supporting all our work in theater. Students engage in a wide variety of ensemble and theater exercises throughout the semester. They develop fundamental acting skills through scene work and acting exercises. Students also begin the process of creating original work. This class can be used as the prerequisite for Advanced Production.",
+        "prerequisites": "None"
+    },
+    {
+        "id": 46306,
+        "title": "Theater: Advanced Production",
+        "grade": 10,
+        "eligibleGrades": [
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "Visual & Performing Arts": 0.5
+        },
+        "length": "Semester",
+        "mandatory": false,
+        "description": "Students work in small and full-class ensembles creating and rehearsing original pieces of theater. This work is presented as part of the Theatre Festival in April, so there is a minimal amount of after-school rehearsal required. This course is the prerequisite for the Advanced Topic Performing Arts course.",
+        "prerequisites": "Any theater course."
+    }, 
+    {
+        "id": 46310,
+        "title": "Theater: Improvisation",
+        "grade": 9,
+        "eligibleGrades": [
+            9,
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "Visual & Performing Arts": 0.5
+        },
+        "length": "Semester",
+        "mandatory": false,
+        "description": "Contrary to popular belief, Improvisation performers do not just ‘make it all up’ on the spot. There are skills and structures providing the springboard for entertaining improvisation. Students will develop these skills and performance forms in a workshop process emphasizing collaboration and play. This course can serve as the prerequisite for Advanced Improvisation and Advanced Production.",
+        "prerequisites": "None"
+    },
+    {
         "id": 46522,
         "title": "Robotics Science",
         "grade": 9,
@@ -1691,8 +1936,27 @@
         },
         "length": "Semester",
         "mandatory": false,
-        "description": "Entrepreneurship provides real world, handson learning on what it’s like to actually start a company. The goal is to give students a framework to test the business model of a startup while creating all of the pressures and demands of the real world in an early stage start-up. They will learn marketing, finance, and other business disciplines, while also acquiring organizational skills such as time management and leadership development. The class is also a vehicle to develop character, intellect, and resilience in students. Students start the semester with an immediate immersion into the Lean Startup methodology adopted from University of California Berkeley and Design Thinking techniques from Stanford University. As students develop skills through working in the field, observing and interviewing to discover problems, and learning techniques for validating hypotheses, they learn by doing, through real world problems and collaborating with real entrepreneurs. Students work with carefully selected Singapore entrepreneurs, who present real and urgent business problems with hard deliverables and deadlines. Students learn processes including customer development, agile development, and rapid prototyping. Throughout the course, students will learn to problem solve, think critically, make well-informed decisions, communicate effectively, and engage in productive and successful team work. In the final portion of the course, students use everything they’ve learned about entrepreneurship and group work to launch their own startups. The course requires rigorous study and emphasizes in-depth research.",
+        "description": "Entrepreneurship provides real world, hands-on learning on what it’s like to actually start a company. The goal is to give students a framework to test the business model of a startup while creating all of the pressures and demands of the real world in an early stage start-up. They will learn marketing, finance, and other business disciplines, while also acquiring organizational skills such as time management and leadership development. The class is also a vehicle to develop character, intellect, and resilience in students. Students start the semester with an immediate immersion into the Lean Startup methodology adopted from University of California Berkeley and Design Thinking techniques from Stanford University. As students develop skills through working in the field, observing and interviewing to discover problems, and learning techniques for validating hypotheses, they learn by doing, through real world problems and collaborating with real entrepreneurs. Students work with carefully selected Singapore entrepreneurs, who present real and urgent business problems with hard deliverables and deadlines. Students learn processes including customer development, agile development, and rapid prototyping. Throughout the course, students will learn to problem solve, think critically, make well-informed decisions, communicate effectively, and engage in productive and successful team work. In the final portion of the course, students use everything they’ve learned about entrepreneurship and group work to launch their own startups. The course requires rigorous study and emphasizes in-depth research.",
         "prerequisites": "Semester I grade of B+ or higher in Humanities 9 is required to select this course in grade 10."
+    },
+    {
+        "id": 48002,
+        "title": "Dance I - Introduction to Dance",
+        "grade": 9,
+        "eligibleGrades": [
+            9,
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "Visual/Performing Arts": 0.5,
+            "PE & Health": 0.5
+        },
+        "length": "Semester",
+        "mandatory": false,
+        "description": "This course is designed for any student who would like to develop confidence and the ability to dance either for fun or as a performer. Students will explore a wide range of techniques and vocabulary from diverse styles, including contemporary, jazz, hip hop, and global dance forms. The curriculum emphasizes practical application, culminating in the creation of original choreography and the development of essential performance and analytical skills.",
+        "prerequisites": "None"
     },
     {
         "id": 48016,
