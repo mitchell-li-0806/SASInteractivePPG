@@ -1,0 +1,1752 @@
+[
+    {
+        "id": 41004,
+        "title": "Humanities 9",
+        "grade": 9,
+        "credits": {
+            "English": 1,
+            "Social Studies": 1
+        },
+        "length": "Year",
+        "mandatory": true,
+        "note": "All grade 9 students will be enrolled in the Humanities 9 course to meet their English and Social Studies credit requirements",
+        "description": "Humanities 9 is a year-long survey course that focuses on building a strong foundation of skills and empowering students to make meaningful connections across the English and Social Studies disciplines. Using an inquiry framework, Humanities 9 students will explore literature and world history from various cultural perspectives while learning to read analytically, write effectively, and speak and listen thoughtfully. Over the course of the year, students will write for a variety of purposes (to analyze, inform, reflect, argue, and narrate) and engage with a variety of texts. In strengthening their historical thinking skills, students will learn rigorous research methods and source evaluation skills, create recursive compelling questions to guide their historical inquiries, analyze historical continuities and changes, and explore complex and interacting factors that have influenced the perspectives of people. Students will also practice and strengthen their discussion and presentation skills to build and share their understandings. Finally, they'll refine their knowledge of grammar and vocabulary, honing the language tools they will use to express themselves purposefully and effectively.",
+        "prerequisites": "None"
+    },
+    {
+        "id": 41006,
+        "title": "British Literature: The World of Shakespeare",
+        "grade": 11,
+        "eligibleGrades": [
+            11,
+            12
+        ],
+        "credits": {
+            "English": 0.5
+        },
+        "length": "Semester",
+        "lockedSemester": "S2",
+        "mandatory": false,
+        "description": "This semester-long course is designed for students who would like to read Shakespeare’s plays and poems closely, critically, and creatively. Students will develop close reading and viewing skills, explore Shakespeare’s language, and experiment with themes and literary features in critical and creative writing, discussion, and informal performance. Study will focus on craft, meaning, inquiry, and both individual and collaborative exploration of Shakespeare’s sonnets and plays (comedy, history, and tragedy).",
+        "prerequisites": "None",
+        "note": "Offered in 2026-27. May not be offered in 2027-28."
+    },
+    {
+        "id": 41008,
+        "title": "Contemporary American Literature",
+        "grade": 11,
+        "eligibleGrades": [
+            11,
+            12
+        ],
+        "credits": {
+            "English": 0.5
+        },
+        "length": "Semester",
+        "lockedSemester": "S2",
+        "mandatory": false,
+        "description": "This semester-long course explores contemporary American literature, including short fiction, novels, and drama. Students will understand modern American culture through literature and discuss the perspectives, voices, and values that shape modern American identity. Skills practiced in the course include researched arguments, literary analysis responses, creative responses to reading, literature circle discussions, and presentations.",
+        "prerequisites": "None",
+        "note": "Not offered in 2026-27. May be offered in 2027-28."
+    },
+    {
+        "id": 41011,
+        "title": "Literature & the Imagination: Science Fiction",
+        "grade": 11,
+        "eligibleGrades": [
+            11,
+            12
+        ],
+        "credits": {
+            "English": 0.5
+        },
+        "length": "Semester",
+        "lockedSemester": "S1",
+        "mandatory": false,
+        "description": "This semester-long course invites students to critically engage with both classic and contemporary science fiction, examining the philosophical (ethical), scientific, and political ideas developed in this genre. Key ideas include: the ethics of science and the responsibility of the scientist, the conflict between humans and technology, humans’ relationship to nature, the individual against society, humankind meeting alien species, social problems highlighted in science fiction literature and film, and how science fiction questions what it means to be human. Consequently, students will analyze and explore both written text and film via essays, close reading commentaries, and discussions. Students will also write their own science fiction stories. The variety of science fiction writers and directors studied includes (but is not limited to) H.G. Wells, Mary Shelley, Ray Bradbury, Octavia Butler, Ridley Scott, and Denis Villeneuve.",
+        "prerequisites": "None"
+    },
+    {
+        "id": 41013,
+        "title": "English 10",
+        "grade": 10,
+        "credits": {
+            "English": 1
+        },
+        "length": "Year",
+        "mandatory": false,
+        "description": "English 10 is primarily a survey of American Literature in which students are asked to think critically and reflect on essential questions throughout the year. Instruction and assessments are focused on improving all aspects of language: reading, writing, listening, and speaking. Students read a variety of classic and contemporary fiction, nonfiction, drama, short stories, and poetry, along with regular independent reading, to move from comprehension into critical reading. The course emphasizes the discussion of literature to further students' understanding of themes that surface through the reading. Students build their writing skills through writing and revising informative, narrative, and argumentative pieces. Instruction on language usage and mechanics focuses on students identifying and correcting problems evident in their writing and developing sophisticated sentence fluency.",
+        "prerequisites": "None"
+    },
+    {
+        "id": 41017,
+        "title": "World Literature: Myths & Monsters",
+        "grade": 11,
+        "eligibleGrades": [
+            11,
+            12
+        ],
+        "lockedSemester": "S2",
+        "credits": {
+            "English": 0.5
+        },
+        "length": "Semester",
+        "mandatory": false,
+        "description": "Monsters and heroes are figures as old as literature itself; across world cultures and throughout history, humans have told stories about good and evil, epic quests, and grotesque creatures of nightmare. This semester-long course explores some of the most enduring mythical archetypes through ancient and modern literary texts. Through reading, writing, and discussion, students will ask: What makes a myth? How do we define heroes and monsters? Good and evil? How does modern literature trouble traditional literary archetypes? And what do our monsters and heroes say about us? Students will examine novels, epic stories, and films that feature classic and contemporary visions of heroes, witches, demons, ogres, and perhaps the most frightening monster of all: humankind. Students should expect to work both independently and with peer groups to examine readings and explore ideas. The course will require development of skills in literary analysis, close reading of challenging texts, discussion and exploration of philosophical ideas connected to the literature, as well as research and presentation of information.",
+        "prerequisites": "None"
+    },
+    {
+        "id": 41019,
+        "title": "Asian Literature: An East-West Perspective",
+        "grade": 11,
+        "eligibleGrades": [
+            11,
+            12
+        ],
+        "credits": {
+            "English": 0.5
+        },
+        "length": "Semester",
+        "lockedSemester": "S1",
+        "mandatory": false,
+        "description": "This semester-long course allows students to explore novels, poetry, and pop culture texts— like anime, K-dramas, Hong Kong Film, and other media—created and produced in Asia or by Asian authors abroad. The course includes local Singaporean voices, as well as those from the broader Asian continent and will examine how narrative styles and cultural values represent and reflect each other. While many of the texts focus on Singapore, China, Japan, India, or South Korea, there is space for students to bring their own backgrounds and identities into text selection. Students will engage in literature circles, discussing books that they’ve chosen based on their interests. They will read Singaporean poetry, and write some of their own, inspired by their immediate surroundings, and sharpening their analysis skills. Finally, they will conclude the semester by selecting a modern, Asian pop culture text to research and analyze. This inquiry project allows them to investigate Asian pop culture, their own media use and tastes, and Asia’s cultural impact on the modern world. This is an engaging, relevant, and choice-driven course that features texts and voices that students don’t often see in their English courses.",
+        "prerequisites": "None"
+    },
+    {
+        "id": 41022,
+        "title": "Studies in Satire",
+        "grade": 11,
+        "eligibleGrades": [
+            11,
+            12
+        ],
+        "lockedSemester": "S2",
+        "credits": {
+            "English": 0.5
+        },
+        "length": "Semester",
+        "mandatory": false,
+        "description": "This semester-long course is designed for students who wish to explore and analyze a variety of satire through the ages to examine how the genre works. Students will begin by exploring the basic concepts of satire as a literary genre. After establishing a critical lens through which to view satire, students will study a variety of satirical texts ranging from classical to more contemporary examples. The texts studied will include essays, short video clips, music, and full-length films. Throughout the semester, students will focus on developing the following skills: explanatory writing, presentation, argument writing, and close reading. Students will even get a chance to try their hand at writing their own satire. Overall, the course seeks to enhance students' critical thinking skills by closely analyzing the criticisms inherent in works of satire.",
+        "prerequisites": "None"
+    },
+    {
+        "id": 41025,
+        "title": "Reading, Writing & Publishing in a Digital World",
+        "grade": 11,
+        "eligibleGrades": [
+            11,
+            12
+        ],
+        "credits": {
+            "English": 1
+        },
+        "length": "Year",
+        "mandatory": false,
+        "description": "In this year-long course, students will examine how digital media has reconstructed the ways we read, write, speak, and think. Essential questions for this course include: In what ways does the media shape our identity and behavior? In what ways does surveillance change our behaviors? And in what ways does AI already influence our lives? In what ways might AI change our lives? Each quarter, students will analyze selected literary and visual texts while exploring and engaging with an array of media genres and forms. Throughout the year, students will develop oral communication skills and apply them in collaborative discussions and presentations. The final unit invites students to select their own literary and visual texts to create a presentation and reflection exploring how media, surveillance, and AI have shaped their identity and behavior.",
+        "prerequisites": "None"
+    },
+    {
+        "id": 41028,
+        "title": "AP English Language & Composition",
+        "grade": 10,
+        "eligibleGrades": [
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "English": 1,
+            "Advanced Studies": 1
+        },
+        "length": "Year",
+        "mandatory": false,
+        "description": "AP English Language & Composition is a university-level course in which students read and write for a variety of rhetorical purposes. Over the course of the year, students will learn skills of rhetorical analysis, argument, and argumentative synthesis. Students will study a variety of non-fiction texts of varying lengths and rhetorical situations, requiring students to respond to both current controversies and enduring philosophical questions. In addition to preparing for the AP exam tasks (timed writing and multiple choice questions), students will participate in collaborative discussions, create video projects, and craft processed pieces of writing to develop their voice and style. Please note that successful completion of the course requires a much greater effort and is significantly more demanding than English 10. Students best suited to this course are avid, proficient readers attuned to current events and interested in understanding the power of language to shape our identities, our perceptions, and our world. Students will be prepared for and will be strongly encouraged to sit for the AP exam in May.",
+        "prerequisites": "None for rising 11th and 12th grade students. Rising 10th grade students with a Semester I grade of A+ in Humanities 9 may seek an override from their current Humanities English teacher."
+    },
+    {
+        "id": 41042,
+        "title": "Creative Writing",
+        "grade": 11,
+        "eligibleGrades": [
+            11,
+            12
+        ],
+        "credits": {
+            "English": 0.5
+        },
+        "length": "Semester",
+        "lockedSemester": "S1",
+        "mandatory": false,
+        "description": "This semester-long course is designed for students who wish to explore creative writing, to develop an individual writing voice, and to learn first-hand how creative writers work. Using a workshop format, students will hone their collaboration skills as they survey specific forms of creative writing (including narrative and poetry), develop a peer community of writers to critique and support each other, and create an individual portfolio of creative work. Students will have opportunities to submit their work to outside publications and share their work with the school community. This course serves as an introduction to creative writing that sets up students to succeed in the AT Writing Workshop and Publication class, should they choose to pursue further studies in creative writing.",
+        "prerequisites": "None"
+    },
+    {
+        "id": 41046,
+        "title": "AT English: Writing Workshop & Publication",
+        "grade": 11,
+        "eligibleGrades": [
+            11,
+            12
+        ],
+        "credits": {
+            "English": 1,
+            "Advanced Studies": 1
+        },
+        "length": "Year",
+        "mandatory": false,
+        "description": "Designed for students who already have a regular writing practice and can demonstrate a passion for creative writing, this course is an inquiry into the world of writing and publication, culminating in the publication of an anthology of works composed, edited, designed, and marketed by students. Students will learn creativity and collaboration skills as a backdrop to their focus on writing. Skills we develop include idea generation, giving and responding to peer feedback, intensive revision, and purposeful reflection. Students will have the choice to learn editing, design, marketing, or events planning on smaller teams. The course features workshops to improve drafting and editing skills, study and analysis of writing that focuses on process and audience, and encounters with visiting local and international authors. The course demands rigorous independent work and responsibility to meet community expectations and deadlines.",
+        "prerequisites": "In order to be admitted into this advanced course for juniors and seniors, students must submit a portfolio of creative writing pieces by February 22, 2026. This portfolio must demonstrate a passion for writing as well as evidence of craft, knowledge of standard written English, potential for growth, and pride in the work. The portfolio will be assessed by a committee of English teachers, and applicants will be informed of their status prior to course registration. Please see your English teacher and the application form for more details."
+    },
+    {
+        "id": 41047,
+        "title": "AT English: Literature",
+        "grade": 11,
+        "eligibleGrades": [
+            11,
+            12
+        ],
+        "credits": {
+            "English": 1,
+            "Advanced Studies": 1
+        },
+        "length": "Year",
+        "mandatory": false,
+        "note": "Students enrolled in this course may choose to take the College Board AP English Literature exam.",
+        "description": "AT English: Literature is for avid readers interested in pursuing deeper and more creative ways to read. The course will build a critical reading community that discusses, questions, shares, and creates. There will also be opportunities to make choices and decisions about texts and assessments. The central question of the course is: How does engaging with a text through multiple modalities deepen understanding and relevance? Integral to the course are long-term reading and reinvention projects where students will respond to and reinvent a text through collaboration, creation, and performance. Students will also learn to interpret texts through conventional academic lenses; academic discussion; reading analysis; and writing to analyze, explain, propose, and reflect. The course has a demanding reading, writing, and creating workload, and is meant for students who are interested in challenging literary texts combined with a cognitive mentorship approach in which the teacher learns and creates alongside the students as a member of the reading community.",
+        "prerequisites": "None for rising 12th grade students. A Semester I grade of B or higher in English 10/American Studies is required to select this course in 11th grade."
+    },
+    {
+        "id": 41048,
+        "title": "AT English: Non-Fiction & Rhetoric",
+        "grade": 11,
+        "eligibleGrades": [
+            11,
+            12
+        ],
+        "credits": {
+            "English": 1,
+            "Advanced Studies": 1
+        },
+        "length": "Year",
+        "mandatory": false,
+        "note": "Recommended: Completion of AP English: Language & Composition. This course includes a mandatory weekend retreat in the first quarter. ",
+        "description": "AT English: Nonfiction & Rhetoric is a collegelevel, student-driven course that builds on the skills taught in AP Language & Composition, though this is not a prerequisite for the course. Students will write a range of thoughtful and provocative nonfiction pieces—touching on topics such as culture, social justice, politics, the environment, economics, and language— reflecting their identities, interests, and cultural and linguistic backgrounds. Students publish their work on a class-created website and through community events. The course builds skills in discussion, speechwriting, performance, editorial writing, rhetorical analysis, and group work. The course requires a high level of independence and peer collaboration.",
+        "prerequisites": "Prerequisite: In order to be admitted into this advanced course for grades 11-12, students must submit a portfolio of expository and persuasive writing by February 22, 2026. This portfolio must demonstrate a passion for the subject, evidence of craft, knowledge of standard written English, evidence of close reading, and potential for growth. The portfolio will be assessed by a committee of English teachers, and applicants will be informed of their status prior to course registration. Please see your English teacher and the application form for more details."
+    },
+    {
+        "id": 42008,
+        "title": "Economics",
+        "grade": 10,
+        "eligibleGrades": [
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "Social Studies": 0.5
+        },
+        "length": "Semester",
+        "mandatory": false,
+        "note": "Offered in 2026-27. May not be offered in 2027-28. This course is not available for students who have already completed advanced studies in economics.",
+        "description": "Economics will provide students insight into ways people and nations function economically, i.e., how they make a living. Basic economic concepts including wealth, utility, capital, labor, supply and demand, profit and competition, production, distribution, exchange, consumption, and the factors affecting each area are studied. Monetary and fiscal policies are examined in the light of contemporary economics, both national and international. Students will study major recessions to understand fiscal policy, the public debt, and ways banks create money.",
+        "prerequisites": "None"
+    },
+    {
+        "id": 42010,
+        "title": "Psychology",
+        "grade": 10,
+        "eligibleGrades": [
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "Social Studies": 0.5
+        },
+        "length": "Semester",
+        "mandatory": false,
+        "note": "Not offered in 2026-27. May be offered in 2027-28.",
+        "description": "Psychology is the study of mental processes and behavior. It is a complex subject which draws on concepts, methods and understandings from a number of different disciplines. This requires a multidisciplinary approach and the use of a variety of research techniques whilst recognising that behavior is not a static phenomenon - it is adaptive, and as the world, societies and challenges facing societies change, so does behavior. Considering this, we will examine biological, cognitive, and sociocultural approaches to understanding behavior.",
+        "prerequisites": "None"
+    },
+    {
+        "id": 42014,
+        "title": "Modern History of Singapore",
+        "grade": 10,
+        "eligibleGrades": [
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "Social Studies": 0.5
+        },
+        "length": "Semester",
+        "mandatory": false,
+        "note": "Offered in 2026-27. May not be offered in 2027-28.",
+        "description": "This course provides an overview of the events and forces that have created the modern nation of Singapore, a country many of us call home. Using a variety of media, including graphic texts, students will consider the common cultural and historical background of Singapore, as well as the impact of geography, location, and people on its history. The role of foreign empires and colonial powers will be examined, along with the forces at work and the paths followed, on the road to independence. Emphasis will also be placed on Singapore today, including the perennial topics of race and trade. Students will examine modern Singaporean society, culture, economy, and politics through simulations, debates, independent research, interactive lectures, field trips, and visits from Singaporean writers and artists.",
+        "prerequisites": "None"
+    },
+    {
+        "id": 42023,
+        "title": "Behavioral Economics & Game Theory",
+        "grade": 10,
+        "eligibleGrades": [
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "Social Studies": 0.5
+        },
+        "length": "Semester",
+        "mandatory": false,
+        "note": "Not offered in 2026-27. May be offered in 2027-28. This course does not meet the NCAA Division I core course requirement for Social Studies. See counselor for details.",
+        "description": "This course uses models from the disciplines of psychology and economics to encourage a logical, deductive approach to thinking, and to look at several different approaches to resolving conflicts. The major analytical models presented are derived from “game theory” and “behavioral economics”. These models are used to tackle issues and problems across the entire spectrum of the social sciences. The course is largely problem centered, applying game theory tactics and skills to hypothetical situations and to case studies that come from history, current world events, and the immediate world around us. Individual analysis, small group discussion, and class discussion are common formats. The final project will be a research paper applying Game Theory concepts to a ‘real life’ example.",
+        "prerequisites": "None"
+    },
+    {
+        "id": 42024,
+        "title": "Law and Justice",
+        "grade": 10,
+        "eligibleGrades": [
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "Social Studies": 0.5
+        },
+        "length": "Semester",
+        "mandatory": false,
+        "note": "Offered in 2026-27. May not be offered in 2027-28.",
+        "description": "This course has been developed to promote a cross-cultural understanding of the law. Students will compare the legal systems of the United States and Singapore. Law & Justice is intended to provide SAS students with the ability to understand the U.S. government, individual rights, laws and legal disputes, as well as those of our host country. Students will be encouraged to engage deeply with social policy guided by significant themes in jurisprudence and theories of justice, including individual liberty, privacy, democracy, and the relationship between the citizen and the state. We will accomplish this through case studies, and mock trials of landmark and contemporary conflicts. Students who take part in Law & Justice will discuss and write about current and controversial issues, engage in simulations of democratic practices, receive pertinent civic instruction, interact with experienced lawyers and jurists, and learn how to formulate arguments in support of policies they advocate. Students will gain a practical understanding of law and the legal system, historical and current controversies, and how this system might relate to their everyday lives.",
+        "prerequisites": "None"
+    },
+    {
+        "id": 42025,
+        "title": "Modern Philosophy",
+        "grade": 10,
+        "eligibleGrades": [
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "Social Studies": 0.5
+        },
+        "length": "Semester",
+        "mandatory": false,
+        "note": "Not offered in 2026-27. May be offered in 2027-28.",
+        "description": "Modern Philosophy will require students to examine concepts such as logic, ethics, reality, and happiness to construct arguments answering questions such as: “What are the questions, and who has the answers?”, “How are modern ethical dilemmas in current events ‘solved’ using ethics?”, “How are social justice movements such as justice in health care, justice in protest movements, and the problems of climate change considered using philosophical concepts?”, and “What makes us happy?” Students will read and analyze against the roots of philosophical thinking and then move to a study of multicultural philosophers’ engagement with life’s most interesting ethical dilemmas. Students will be asked to come prepared to have intellectual conversations, engage in inquiry and develop creative projects to synthesize sources from media to experts. The purpose of Modern Philosophy is to provide students with the fundamental knowledge and skills necessary to critically examine contemporary ethical and philosophical situations. This course promotes independent thinking and encourages critical examinations of philosophical writings.",
+        "prerequisites": "None"
+    },
+    {
+        "id": 42030,
+        "title": "AT African American Studies",
+        "grade": 10,
+        "eligibleGrades": [
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "Social Studies": 1,
+            "Advanced Studies": 1
+        },
+        "length": "Year",
+        "mandatory": false,
+        "note": "This course meets the U.S. History graduation requirement. Students will have the opportunity to submit project work and sit the AP African American Studies exam in May.",
+        "description": "This course is a vibrant, interdisciplinary exploration of African American history and culture, from early African kingdoms to the present day. You’ll engage directly with authentic sources like historical documents, literature, and art to understand the diversity of the Black experience in the United States and the broader African diaspora. Throughout the course, you will sharpen your skills in historical, literary, visual, and data analysis, culminating in a research project on a topic of your choice. You’ll also have opportunities to consider our local context and personal histories. This course fully prepares students to challenge the AP African American Studies exam. This course is also an excellent option for those students who want to broaden their understanding of US history after completing one of our other US History Courses (AP US History, American Studies, US History & Government).",
+        "prerequisites": "Semester I grade of B or higher in Humanities 9 is required to select this course in grade 10."
+    },
+    {
+        "id": 42031,
+        "title": "AP Government & Politics: Comparative",
+        "grade": 11,
+        "eligibleGrades": [
+            11,
+            12
+        ],
+        "credits": {
+            "Social Studies": 0.5
+        },
+        "length": "Semester",
+        "lockedSemester": "S2",
+        "mandatory": false,
+        "description": "AP Government and Politics: Comparative introduces students to the rich diversity of political life globally. The course uses a case study approach to examine the political structures; policies; and political, economic, and social challenges of six selected countries: China, Iran, Mexico, Nigeria, Russia, and the United Kingdom. Students compare the effectiveness of approaches to many global issues by examining how different governments solve similar problems. In this discussion based course, they will read and interpret data, make comparisons and applications, and develop evidence-based arguments. Throughout we will explore current policy events in our six case studies and globally. This is usually a second semester course. Students will be prepared for and strongly encouraged to sit for the AP exam in May.",
+        "prerequisites": "None"
+    },
+    {
+        "id": 42035,
+        "title": "AP Government & Politics: U.S.",
+        "grade": 11,
+        "eligibleGrades": [
+            11,
+            12
+        ],
+        "credits": {
+            "Social Studies": 0.5
+        },
+        "length": "Semester",
+        "lockedSemester": "S1",
+        "mandatory": false,
+        "description": "AP Government and Politics: U.S. provides a college-level, nonpartisan introduction to key political concepts, ideas, institutions, policies, interactions, roles, and behaviors that characterize the constitutional system and political culture of the United States. Students will study U.S. foundational documents, Supreme Court decisions, and other texts and visuals to gain an understanding of the relationships and interactions among political institutions, processes, and behaviors. They will also engage in current policy debates and electoral events, and will explore their political socialization and emerging ideology. This is usually a first semester course. Students will be prepared for and strongly encouraged to sit for the AP exam in May.",
+        "prerequisites": "None"
+    },
+    {
+        "id": 42036,
+        "title": "AP U.S. History",
+        "grade": 10,
+        "eligibleGrades": [
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "Social Studies": 1,
+            "Advanced Studies": 1
+        },
+        "length": "Year",
+        "mandatory": false,
+        "note": "This course meets the U.S. History graduation requirement.",
+        "description": "This course provides students with an understanding of major themes in U.S. history, including American identity, economic and social life, political change and continuity, and the U.S. role in the world. The course is ideal for the student who has a real interest in history and who is prepared to work consistently and to go well beyond. Students are required to be internally motivated, to have good reading comprehension and analytical writing skills, to be well organized, and to be prepared to examine and think about different, often conflicting, interpretations of history. The course moves briskly, so students must be prepared to devote time daily to reading and note taking. There will be considerable in-class discussions based on assigned readings, as well as numerous interpretive essays. Students will be prepared for and strongly encouraged to sit for the AP exam in May.",
+        "prerequisites": "Semester I grade of B+ or higher in Humanities 9 is required to select this course in grade 10."
+    },
+    {
+        "id": 42045,
+        "title": "AP Economics",
+        "grade": 10,
+        "eligibleGrades": [
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "Social Studies": 1,
+            "Advanced Studies": 1
+        },
+        "length": "Year",
+        "mandatory": false,
+        "note": "Recommended: Students should have strong foundational math skills for this course.",
+        "description": "AP Economics is made up of two semester-length College Board AP courses - Macroeconomics and Microeconomics. Topics covered include basic concepts such as scarcity, trade-offs, and the functions of the economics system; the nature and function of product markets, including basic supply and demand theory, consumer choice theory, and pricing theory; the nature and function of factor markets, including theories of wage determination; measurement of economic performance using concepts such as gross domestic product, inflation, and unemployment; analysis of various schools of economic thought in relation to aggregate demand and aggregate supply; money and banking, including the tools of the central bank; and, finally, the usefulness of various government policies that can be applied to remedy the economic problems discussed throughout each semester. College Board offers both an AP Microeconomics and AP Macroeconomics exam. This course prepares students to take both exams in May. SAS offers two different versions of AP Economics, this course, where students proceed at the normal AP pace, and a self-paced AP Economics (42046). Students will be prepared for and strongly encouraged to sit for the AP exam in May.AP Economics is made up of two semester-length College Board AP courses - Macroeconomics and Microeconomics. Topics covered include basic concepts such as scarcity, trade-offs, and the functions of the economics system; the nature and function of product markets, including basic supply and demand theory, consumer choice theory, and pricing theory; the nature and function of factor markets, including theories of wage determination; measurement of economic performance using concepts such as gross domestic product, inflation, and unemployment; analysis of various schools of economic thought in relation to aggregate demand and aggregate supply; money and banking, including the tools of the central bank; and, finally, the usefulness of various government policies that can be applied to remedy the economic problems discussed throughout each semester. College Board offers both an AP Microeconomics and AP Macroeconomics exam. This course prepares students to take both exams in May. SAS offers two different versions of AP Economics, this course, where students proceed at the normal AP pace, and a self-paced AP Economics (42046). Students will be prepared for and strongly encouraged to sit for the AP exam in May.",
+        "prerequisites": "Semester I grade of B+ or higher in Humanities 9 is required to select this course in grade 10."
+    },
+    {
+        "id": 42046,
+        "title": "AP Economics (Self-Paced)",
+        "grade": 10,
+        "eligibleGrades": [
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "Social Studies": 1,
+            "Advanced Studies": 1
+        },
+        "length": "Year",
+        "mandatory": false,
+        "note": "Recommended: Students should have strong foundational math skills for this course.",
+        "description": "This “self-paced” AP Economics covers the same content as the more traditional AP Economics course (42045), but students have the flexibility to move faster than the normal pace of the class. Students may take assessments before the normal “due date” but may not fall behind. Students who sign up for this course will benefit from the flexibility to plan the timing of assessments themselves but should be self-directed and strong independent learners. Students will be prepared for and strongly encouraged to sit for the AP exam in May.",
+        "prerequisites": "Semester I grade of B+ or higher in Humanities 9 is required to select this course in grade 10."
+    },
+    {
+        "id": 42060,
+        "title": "AT Urban Studies",
+        "grade": 11,
+        "eligibleGrades": [
+            11,
+            12
+        ],
+        "credits": {
+            "Social Studies": 0.5,
+            "Advanced Studies": 0.5
+        },
+        "length": "Semester",
+        "mandatory": false,
+        "description": "Students will study urban development from a historical and a geographic perspective focusing on themes, trends, and challenges that have faced urban planners since the start of human urbanization. Students will engage in various interdisciplinary assignments and projects which demonstrate understanding of the key concepts, content, and skills associated with city design and analysis. Students will apply this knowledge to Singapore and look for themes and patterns related to various community stakeholders. Students will then focus on a theme of personal interest which will form the basis of a field work research paper/project. Themes could relate to topics such as gentrification, green space, the negotiation between private and public interests, architecture, transportation, leisure and recreation, or government housing, and may focus on one specific location, such as their own neighborhood. Following the fieldwork-based research, students will look at the main challenges and issues facing urban planners today around the world. The culminating summative project will be a research project which can take a variety of forms, but will address one of these issues. Students will also share a presentation which summarizes their research and findings. This course will involve research in the field, and will require students to visit sites in their own time, and be responsible for conducting that field research. All assessments for this course are inquiry/project-based, with no traditional ‘pencil-and-paper’ tests.",
+        "prerequisites": "None."
+    },
+    {
+        "id": 42061,
+        "title": "AT Economics: Globalization",
+        "grade": 11,
+        "eligibleGrades": [
+            11,
+            12
+        ],
+        "credits": {
+            "Social Studies": 0.5,
+            "Advanced Studies": 0.5
+        },
+        "length": "Semester",
+        "mandatory": false,
+        "description": "This course is designed to offer students an opportunity to delve deeper into the international economy than our introductory courses allow. The focus of the course is globalization (international trade and economic development). Students use the conventional models learned in previous economics classes as well as the less conventional models of behavioral economics to study economic development and growth. All students will write a research paper and work on a development problem with a local social enterprise as culminating economics projects. The latter is optional and requires out of school work. The course requires rigorous study and emphasizes in-depth research.",
+        "prerequisites": "AP Economics; or a Semester I grade of A or higher in Economics."
+    },
+    {
+        "id": 42062,
+        "title": "AT Psychology",
+        "grade": 11,
+        "eligibleGrades": [
+            11,
+            12
+        ],
+        "credits": {
+            "Social Studies": 1,
+            "Advanced Studies": 1
+        },
+        "length": "Year",
+        "mandatory": false,
+        "note": "Students who have taken AP Psychology previously are not eligible to take this course. This course is aligned to the criteria for a Syracuse University psychology course (SUPA PSY 205). If students elect to earn Syracuse University credit by concurrently enrolling in SUPA PSY 205, they need to do so at the beginning of AT Psychology. Please note that there is a cost per Syracuse University credit hour that families must pay if students choose to concurrently enroll. For further information, please see the SUPA website (http://supa. syr.edu). To determine whether participation in this program is a fit for your long-term goals, please speak with your counselor.",
+        "description": "AT Psychology introduces students to the scientific study of human behavior and mental processes. Through examining basic theories, research discoveries, and the applied use of psychology, students will understand multiple perspectives demonstrating that, while psychology covers diverse topics they are not separate and distinct, rather they are integrated and together combine to give us the entire picture of human behavior, cognition, and emotion. Students will learn to access, critically read, and evaluate current research in the field of psychology and will conduct both individual and group research into a topic of interest, thus gaining a strong understanding of the psychological principles as applied to their lives and the world around them. They will complete the course with a strong foundation in scientific research methodology. Students in AT Psychology will have the option to take it as a dual-enrollment course with Syracuse University.",
+        "prerequisites": "None"
+    },
+    {
+        "id": 42063,
+        "title": "AT Geography & Field Research",
+        "grade": 10,
+        "eligibleGrades": [
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "Social Studies": 1,
+            "Advanced Studies": 1
+        },
+        "length": "Year",
+        "mandatory": false,
+        "description": "Geography takes advantage of its unique position to examine relevant concepts and ideas from a wide variety of disciplines. This helps students develop an appreciation of, and a respect for, alternative approaches, viewpoints, and ideas. This course focuses on four major themes of human geography and ensures that students acquire elements of a variety of research and fieldwork methodologies. The AT Geography course embodies global and international awareness in several distinct ways. It examines key global issues and utilizes examples and detailed case studies at a variety of scales, from local to regional, and from national to international. This is an inquiry-based course that will involve fieldwork in a variety of locations in Singapore, as well as research projects on a variety of global locations and issues.",
+        "prerequisites": "Semester I grade of B+ or higher in Humanities 9 is required to select this course in grade 10."
+    },
+    {
+        "id": 42064,
+        "title": "AT Historical Inquiry & Research: Peace & Conflict Studies",
+        "grade": 10,
+        "eligibleGrades": [
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "Social Studies": 1,
+            "Advanced Studies": 1
+        },
+        "length": "Year",
+        "mandatory": false,
+        "description": "This course invites curious, engaged, and empathetic students to explore the complex dynamics of conflict and the pathways to peace. We will examine the causes, dynamics, and consequences of conflict, as well as the processes and conditions that foster peace. While grounded in History, we will draw upon various disciplines, including international relations, political science, law, sociology, psychology, and anthropology, to provide a comprehensive understanding of violence and peacebuilding.",
+        "prerequisites": "Semester I grade of B or higher in Humanities 9 is required to select this course in grade 10."
+    },
+    {
+        "id": 43008,
+        "title": "Precalculus with Statistics",
+        "grade": 10,
+        "eligibleGrades": [
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "Mathematics": 1
+        },
+        "length": "Year",
+        "mandatory": false,
+        "description": "This course focuses on further developing students’ proficiency with algebra and probability, including a review of trigonometric functions, transformations, and an introduction to trigonometric identities. Students will extend their understanding of probability to include counting methods and probability distributions. Students are also introduced to the statistical analysis of the relationship between two sets of data. This course includes exploration of polynomials, rational, logarithmic, and exponential functions, and provides students with a foundation to take AP Statistics, AT PostEuclidean Geometry, AT Finite Math Modelling, and AP Calculus AB.",
+        "prerequisites": "Semester I grade of C or higher in Algebra II/Trigonometry or Integrated Math III."
+    },
+    {
+        "id": 43016,
+        "title": "Data Analytics",
+        "grade": 10,
+        "eligibleGrades": [
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "Mathematics": 1
+        },
+        "length": "Year",
+        "mandatory": false,
+        "description": "This course focuses on applying statistical models with real datasets. It will include applied examples of data collection, processing, representation, interpretation, analysis, and evaluation to provide students with hands-on experience and introduction to data science. Students will use a popular open source data science tool, the “R” open source statistical analysis and visualization system, to aid in data management, and use worldview concepts to contextualize the analysis of the dataset. At the end of the course, students will have had the opportunity to gain insights on data through examples, discussions, and individual projects based on student interests.",
+        "prerequisites": "Geometry or Integrated Math II"
+    },
+    {
+        "id": 43017,
+        "title": "Discrete Mathematics",
+        "grade": 10,
+        "eligibleGrades": [
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "Mathematics": 1
+        },
+        "length": "Year",
+        "mandatory": false,
+        "description": "This course is designed for the student who wants to continue on in mathematics and learn many reallife applications, but might not intend to pursue calculus level classes. Discrete Math students find that the topics covered in class are closely related with many things they do in other disciplines. Discrete Mathematics provides an introduction to a variety of contemporary topics that are useful in various fields such as business and social sciences, as well as the physical and computer sciences. The topics include use of graphs to model real life applications, election theory, fair division of assets, linear programming, logic, and applications of matrices, probability and statistics. Problem based projects will be included in the class.",
+        "prerequisites": "Algebra II/Trigonometry or Integrated Math III"
+    },
+    {
+        "id": 43021,
+        "title": "Precalculus with Parametrics",
+        "grade": 9,
+        "eligibleGrades": [
+            9,
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "Mathematics": 1
+        },
+        "length": "Year",
+        "mandatory": false,
+        "description": "This course is a prerequisite for AP Calculus BC. Topics include sequences and series, analytical trigonometry, polar coordinates, parametric equations, and rational, logarithmic and exponential functions. This course is fastpaced, time-intensive, and a more rigorous option than previous courses in the sequence. Given the advanced content and accelerated pace, this course is designed for students who are eager and prepared to engage with complex mathematical concepts.",
+        "prerequisites": "Semester I grade of B or higher in Algebra II/Trigonometry or Integrated Math III"
+    },
+    {
+        "id": 43026,
+        "title": "AP Calculus AB",
+        "grade": 10,
+        "eligibleGrades": [
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "Mathematics": 1,
+            "Advanced Studies": 1
+        },
+        "length": "Year",
+        "mandatory": false,
+        "description": "This course covers topics typically found in a first semester university calculus course. The course covers limits, continuity, differentiation and integration, and their applications. Success in this course requires a solid Precalculus background. Students will be well prepared and strongly encouraged to take the AP Calculus AB exam in May.",
+        "prerequisites": "Semester I grade of B or higher in Precalculus with Statistics, or C or higher in Precalculus with Parametrics or Integrated Math III with Precalculus."
+    },
+    {
+        "id": 43028,
+        "title": "AP Statistics",
+        "grade": 10,
+        "eligibleGrades": [
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "Mathematics": 1,
+            "Advanced Studies": 1
+        },
+        "length": "Year",
+        "mandatory": false,
+        "description": "This course covers a wide range of topics and skills typically found in a university statistics course. The purpose of this course is for students to learn, develop and practice using the tools for collecting, analyzing, and drawing conclusions from data. There is a direct and clear emphasis on the communication (written, verbal, reading) of statistical concepts: Justifying, describing, interpreting and explaining statistical phenomena is frequently assessed. The four major themes are exploring data to find patterns, planning a study, exploring random phenomena using probability and simulations, and statistical inference, including confidence intervals and hypothesis testing. Students will be well prepared and strongly encouraged to take the AP Statistics exam in May.",
+        "prerequisites": "Semester I grade of B+ or higher in Algebra II/Trigonometry or Integrated Math III or Data Analytics; or B or higher in Precalculus with Statistics; or C or higher in Precalculus with Parametrics or Integrated Math III with Precalculus."
+    },
+    {
+        "id": 43032,
+        "title": "AP Calculus BC",
+        "grade": 9,
+        "eligibleGrades": [
+            9,
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "Mathematics": 1,
+            "Advanced Studies": 1
+        },
+        "length": "Year",
+        "mandatory": false,
+        "description": "This fast-paced course covers topics usually found in the first two semesters of a first year university calculus course. The course covers all of the topics in AP Calculus AB: limits, continuity, differentiation and integration, and their applications. In addition, AP Calculus BC includes: new integration techniques, polar, parametric and vector calculus and sequences and series, including Taylor series. Students will be well prepared and strongly encouraged to take the AP BC Calculus exam in May.",
+        "prerequisites": "Semester I grade of B or higher in Precalculus with Parametrics or Integrated Math III with Precalculus."
+    },
+    {
+        "id": 43038,
+        "title": "AP Calculus BC (Post-AB)",
+        "grade": 11,
+        "eligibleGrades": [
+            11,
+            12
+        ],
+        "credits": {
+            "Mathematics": 1,
+            "Advanced Studies": 1
+        },
+        "length": "Semester",
+        "lockedSemester": "S1",
+        "mandatory": false,
+        "note": "Designed for students who have completed AP Calculus AB.",
+        "description": "This course is similar to a second semester calculus course in university and will review some topics from AP Calculus AB such as limits, continuity, differentiation and integration. In addition, this course will introduce new integration techniques, polar, parametric and vector calculus and sequences and series, including Taylor series. Students will be well prepared and strongly encouraged to take the AP Calculus BC exam in May.",
+        "prerequisites": "Semester I grade of B or higher in AP Calculus AB."
+    },
+    {
+        "id": 43041,
+        "title": "AT Post-Euclidean Geometry",
+        "grade": 10,
+        "eligibleGrades": [
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "Mathematics": 0.5,
+            "Advanced Studies": 0.5
+        },
+        "length": "Semester",
+        "mandatory": false,
+        "description": "This elective course is designed for students who seek further advanced study and applications beyond the Geometry course, involving concepts acquired in Algebra II/Trigonometry. Topics will include non-Euclidean geometries, further work with transformations and constructions, and higher level work with conic sections. Projectbased learning will be prevalent, involving realworld applications, such as the shapes of satellite dishes, origami, animation design, and the spherical geometry of the Earth.",
+        "prerequisites": "Semester 1 grade of A or higher in Integrated Math II with Trigonometry, or Algebra II/Trigonometry; or B or higher in Precalculus with Statistics; or C or higher in Precalculus with Parametrics or Integrated Math III with Precalculus."
+    },
+    {
+        "id": 43042,
+        "title": "AT Finite Math Modeling",
+        "grade": 10,
+        "eligibleGrades": [
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "Mathematics": 0.5,
+            "Advanced Studies": 0.5
+        },
+        "length": "Semester",
+        "mandatory": false,
+        "description": "This elective course is designed for students who seek high level applications of math to real life situations. Mathematics will be used to explain and analyze cryptography, networks, iterative processes, and scheduling. Mathematical models will be used based on matrices, modular algebra, and vertex-edge graphs. Project-based learning will be prevalent, involving real-world applications, such as bin-packing, transportation networks, encryption, and spanning trees.",
+        "prerequisites": "Semester I grade of A or higher in Algebra II/Trigonometry, Integrated Math II with Trigonometry; or B or higher in Precalculus with Statistics; or C or higher in Precalculus with Parametrics or Integrated Math III with Precalculus."
+    },
+    {
+        "id": 43043,
+        "title": "AT Multivariable Calculus",
+        "grade": 10,
+        "eligibleGrades": [
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "Mathematics": 0.5,
+            "Advanced Studies": 0.5
+        },
+        "length": "Semester",
+        "mandatory": false,
+        "description": "This course covers topics found in typical semester-long university multivariable calculus courses. The course will focus on multivariable calculus including visualizing and working with functions of several variables, vectors and vectorvalued functions, differentiating functions of several variables, gradients, partial derivatives, and multiple integration of several variables. Students will complete projects aligning their skills to real world physical models.",
+        "prerequisites": "Semester I grade of C or higher in AP Calculus BC or concurrent request with semester-long AP Calculus BC (Post-AB)."
+    },
+    {
+        "id": 43044,
+        "title": "AT Linear Algebra",
+        "grade": 10,
+        "eligibleGrades": [
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "Mathematics": 0.5,
+            "Advanced Studies": 0.5
+        },
+        "length": "Semester",
+        "mandatory": false,
+        "description": "This course covers topics found in typical semester-long university linear algebra courses. The course will focus on systems of linear equations and their applications, linear independence and dependence, linear transformations and their matrix representations, matrix algebra, characterizations of invertible matrices, determinants, vector spaces and subspaces, null and column spaces, and Eigenvalues and Eigenvectors. During the semester, students will do projects tied to real world applications, which may include; animation, computer graphics, animal carrying capacities, google page rankings, and transformations.",
+        "prerequisites": "Semester I grade of A or higher in AP Calculus AB or C or higher in AP Calculus BC or concurrent request with semester-long AP Calculus BC (Post-AB)."
+    },
+    {
+        "id": 43052,
+        "title": "Integrated Math I",
+        "grade": 9,
+        "eligibleGrades": [
+            9,
+            10
+        ],
+        "credits": {
+            "Mathematics": 1
+        },
+        "length": "Year",
+        "mandatory": false,
+        "description": "Students will deepen and extend understanding of linear relationships by contrasting them with exponential phenomena and by applying linear models to data that exhibit a linear trend. Integrated Math I also uses properties and theorems involving congruent figures to deepen and extend understanding of geometric knowledge. It is designed to connect the algebraic and geometric concepts using a problem-based approach. This course is the first course in a three-course Integrated Math series using the Illustrative Math curriculum and aligned to the Common Core State Standards.",
+        "prerequisites": "None"
+    },
+    {
+        "id": 43054,
+        "title": "Integrated Math II",
+        "grade": 9,
+        "eligibleGrades": [
+            9,
+            10,
+            11
+        ],
+        "credits": {
+            "Mathematics": 1
+        },
+        "length": "Year",
+        "mandatory": false,
+        "description": "Students will explore quadratic functions and compare them to linear and exponential functions. They will build on previous probability knowledge to understand independence and conditional probability and will investigate similarity, introducing trigonometric ratios to explore triangle properties and proofs. This course is designed to connect the algebraic and geometric concepts using a problem-based approach. It is the second course in a three-course Integrated Math series using the Illustrative Math curriculum and aligned to the Common Core State Standards.",
+        "prerequisites": "Three or more Meeting Expectations of performance standards with no Below Expectations in Accelerated Math 8 (Integrated Math I) or completion of high school Integrated Math I."
+    },
+    {
+        "id": 43055,
+        "title": "Integrated Math II with Trigonometry",
+        "grade": 9,
+        "eligibleGrades": [
+            9,
+            10
+        ],
+        "credits": {
+            "Mathematics": 1
+        },
+        "length": "Year",
+        "mandatory": false,
+        "description": "Students will deepen their understanding of quadratic functions and their complex roots, probability and data analysis, area and volume, and transformations of shapes and functions. This course also introduces the concepts of similarity and right triangle trigonometry, building towards an exploration of circles and advanced trigonometric functions. As the second course in a three-part Integrated Math series aligned with the Common Core State Standards and built on the Illustrative Math curriculum, it integrates concepts from Integrated Math III, particularly in trigonometry. Given the breadth and depth of the material covered, this course is designed for students who are eager and prepared to engage with complex mathematical concepts in a condensed time frame. To support success in this course, students should have exemplary conceptual understanding of all core performance standards in Integrated Math I and are required to discuss this course option with their current math teacher to determine if it is the appropriate level of challenge prior to enrolling.",
+        "prerequisites": "One or more Exemplary core performance standards with no standards below Meeting Expectations in Accelerated Math 8 (Integrated Math I) or Semester I Grade of A or higher in high school Integrated Math I."
+    },
+    {
+        "id": 43056,
+        "title": "Integrated Math III",
+        "grade": 9,
+        "eligibleGrades": [
+            9,
+            10,
+            11
+        ],
+        "credits": {
+            "Mathematics": 1
+        },
+        "length": "Year",
+        "mandatory": false,
+        "description": "Building on work with linear, quadratic, and exponential functions in previous courses, students in Integrated Math III extend their repertoire of functions to include higher degree polynomials, complex numbers, rational, logarithmic, square-root, cuberoot, and trigonometric functions. Students will analyze these functions through several lenses: simplifying expressions, applying transformations, solving equations, and modeling. Students will also engage in statistical inference, focusing on analyzing data from experiments using normal distributions. This course uses the Ilustrative Math curriculum and is aligned to the Common Core State Standards.",
+        "prerequisites": "Integrated Math II"
+    },
+    {
+        "id": 43057,
+        "title": "Integrated Math III with Precalculus",
+        "grade": 9,
+        "eligibleGrades": [
+            9,
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "Mathematics": 1
+        },
+        "length": "Year",
+        "mandatory": false,
+        "description": "Students will expand their understanding of advanced topics, including polynomial, rational, exponential, and trigonometric functions, as well as sequences, series, and introductory calculus concepts. This course also builds on the key precalculus concepts, extending beyond those covered in Integrated Math III. As the final course in a three-part Integrated Math series, aligned with the Common Core State Standards and built on the Illustrative Math curriculum, it provides a deeper exploration of mathematics. Given the advanced content and accelerated pace, this course is designed for students who are eager and prepared to engage with complex mathematical concepts in a condensed timeframe.",
+        "prerequisites": "Semester I grade of B or higher in Integrated Math II"
+    },
+    {
+        "id": 44005,
+        "title": "Biology",
+        "grade": 9,
+        "eligibleGrades": [
+            9,
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "Science": 1
+        },
+        "length": "Year",
+        "mandatory": false,
+        "description": "Biology is a full-year, college-preparatory curriculum based on the Next Generation Science Standards (NGSS). As the course centers on the study of the living world, it is of special relevance and accessibility to students. Students will learn to use and improve their science processing skills in order to solve problems. Laboratory and field based investigations will allow students to have first-hand experience with modern methods of analysis. There are five life science topics in high school as outlined by NGSS: Structure and Function; Inheritance and Variation of Traits; Matter and Energy in Organisms and Ecosystems; Interdependent Relationships in Ecosystems; Natural Selection and Evolution.",
+        "prerequisites": "None"
+    },
+    {
+        "id": 44006,
+        "title": "Physical Science",
+        "grade": 10,
+        "eligibleGrades": [
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "Science": 1
+        },
+        "length": "Year",
+        "mandatory": false,
+        "description": "Physical Science is a lab-based course intended to fuel a student’s love of science. This interdisciplinary, highly interactive course focuses on the fundamental concepts of chemistry, physics, and earth science. The structure of this course emphasizes research projects, demonstrations, and experiments instead of traditional tests. Students will be actively involved with hands-on, experiential units that include topics such as the principles governing matter, interactions and forces between objects, various forms and uses of energy, light and optics, chemical interactions, and celestial bodies.",
+        "prerequisites": "Completion of a full-year Biology course."
+    },
+    {
+        "id": 44008,
+        "title": "Accelerated Biology",
+        "grade": 9,
+        "eligibleGrades": [
+            9,
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "Science": 1
+        },
+        "length": "Year",
+        "mandatory": false,
+        "description": "Accelerated Biology is a full year, honors level course that follows the Next Generation Science Standards (NGSS), is taught at a faster pace, and requires more critical reading and daily work than Biology. This course will be of particular interest to students who are passionate about science or may be interested in a science-related career. There are five life science topics in high school as outlined by NGSS: Structure and Function; Inheritance and Variation of Traits; Matter and Energy in Organisms and Ecosystems; Interdependent Relationships in Ecosystems; Natural Selection and Evolution. Laboratory and field based investigations will allow students to have first-hand experience with modern methods of analysis. Students enrolling in this course should be able to read at or above grade level and should have demonstrated high levels of achievement in previous science courses.",
+        "prerequisites": "None"
+    },
+    {
+        "id": 44010,
+        "title": "Physiology",
+        "grade": 10,
+        "eligibleGrades": [
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "Science": 0.5
+        },
+        "length": "Semester",
+        "mandatory": false,
+        "note": "Not offered in 2026-27. May be offered in 2027-28.",
+        "description": "This course is designed for students interested in learning the important principles behind the human body as it relates to each system within it. The course is designed with student input providing them an opportunity to learn topics of the human body they find most relevant. Opportunities will be provided for dissection and extending knowledge through analysis of disease on the body system. Prior knowledge of cell communication and physiology will be leveraged to gain a more thorough understanding of the integration of different body systems, while examining the impact of modern living on our physiology.",
+        "prerequisites": "Completion of a full-year Biology course."
+    },
+    {
+        "id": 44013,
+        "title": "Zoology",
+        "grade": 10,
+        "eligibleGrades": [
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "Science": 0.5
+        },
+        "length": "Semester",
+        "mandatory": false,
+        "note": "Not offered in 2026-27. May be offered in 2027-28.",
+        "description": "Zoology is a lab-based course that emphasizes the principles of animal biology and an account of the major types and groups of animals from single celled protozoans to vertebrates. The discussion of each animal type includes an account of its structure and bodily processes together with a summary of its habits and reproduction. Relations of animals to their natural environment and their importance to humans also receive consideration. The broader aspects of animal biology are studied; namely, anatomy, physiology (evolutionary relationships), and ecology.",
+        "prerequisites": "None"
+    },
+    {
+        "id": 44014,
+        "title": "Chemistry",
+        "grade": 10,
+        "eligibleGrades": [
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "Science": 1
+        },
+        "length": "Year",
+        "mandatory": false,
+        "description": "Chemistry is a full-year, college-preparatory curriculum based on the Next Generation Science Standards (NGSS). This course models the fundamental laws of chemistry, kinetic molecular theory and atomic structure to make qualitative and quantitative representations and predictions about chemical processes. The core topics of chemistry as outlined in the NGSS include: Structure & Properties of Matter, Chemical Reactions & Interactions, and Energy in Chemical Processes & Everyday Life. The course is rooted in the study of chemical phenomena that are present in everyday life and society. This study is supported by instructional practices that center student sense-making, inquiry and discourse.",
+        "prerequisites": "Completion of a full-year Biology or Physical Science course, plus completion of Algebra I, Integrated Math I, or any higher level math course."
+    },
+    {
+        "id": 44015,
+        "title": "Physics",
+        "grade": 10,
+        "eligibleGrades": [
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "Science": 1
+        },
+        "length": "Year",
+        "mandatory": false,
+        "description": "Physics is a full-year, college-preparatory curriculum based on the Next Generation Science Standards (NGSS). The major topics defined by the NGSS for Physics are Forces and Interactions, Energy, and Space Systems. For each topic, students perform laboratory activities to discover or verify physical phenomena and solve problems with calculations. The laboratory activities help students improve their skill of engaging with arguments from evidence; solving problems with calculations helps students refine their skill of mathematical and computational thinking. At the end of each topic students complete a project applying their knowledge and skills for the topic to an interesting situation, showing how physics explains the world.",
+        "prerequisites": "Concurrent enrollment in or completion of Geometry, Accelerated Math I, Integrated Math II, Integrated Math II with Trigonometry, or a higher-level mathematics course."
+    },
+    {
+        "id": 44016,
+        "title": "Biotechnology",
+        "grade": 10,
+        "eligibleGrades": [
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "Science": 0.5
+        },
+        "length": "Semester",
+        "mandatory": false,
+        "note": "Offered annually.",
+        "description": "Biotechnology is a hands-on course for students who are interested in learning new biological lab skills and their application. Students will be given choice in their learning, which can range from cheese-making to DNA fingerprinting or CRISPR. Student-designed investigations are emphasized as students are exposed to a variety of fields including microbiology, cell biology, genetics, and bioengineering. It is an excellent course for students who are considering careers in any biological science field, such as medicine, genetics, biomedical engineering, or biomedical research.",
+        "prerequisites": "Completion of a full-year biology course."
+    },
+    {
+        "id": 44017,
+        "title": "Forensic Science",
+        "grade": 11,
+        "eligibleGrades": [
+            11,
+            12
+        ],
+        "credits": {
+            "Science": 0.5
+        },
+        "length": "Semester",
+        "mandatory": false,
+        "note": "Offered annually.",
+        "description": "In this course students will learn the real science behind the various laboratory techniques used when analyzing physical evidence from a crime scene. Students will be exposed to various academic fields including photography, mathematics, medicine, and entomology. Laboratory skills commensurate with basic forensic science procedure will be used to analyze topics as diverse as fingerprints, DNA, blood, shoe, tire, hair and fiber evidence, autopsy, and time of death estimation. Students will also be asked to critically analyze forensic evidence in terms of scientific validity and how it can be used to combat systemic racism in criminal justice systems.",
+        "prerequisites": "None"
+    },
+    {
+        "id": 44021,
+        "title": "Marine Biology",
+        "grade": 10,
+        "eligibleGrades": [
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "Science": 0.5
+        },
+        "length": "Semester",
+        "mandatory": false,
+        "note": "Offered in 2026-27. May not be offered in 2027-28.",
+        "description": "This introductory course will explore how human behavior impacts our oceans, the biology and diversity of marine organisms, and the patterns and processes that guide the ecological dynamics in various marine communities. The course will give students a general background in the taxonomy of marine organisms as well as the specific adaptations these organisms have evolved to survive in the ocean. Students will also be introduced to various marine ecosystems and the organisms that inhabit them. To explore these topics, students incorporate class activities, lab experiences, including dissections, as well as research and modeling to demonstrate their learning as opposed to traditional tests.",
+        "prerequisites": "Completion of a full-year biology course."
+    },
+    {
+        "id": 44022,
+        "title": "Environmental Science",
+        "grade": 10,
+        "eligibleGrades": [
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "Science": 0.5
+        },
+        "length": "Semester",
+        "mandatory": false,
+        "note": "Offered in 2026-27. May not be offered in 2027-28.",
+        "description": "Environmental Science is a study of the interrelationships between man, other living things and the environment. Students will study all of the components of our environment and their interactions and will seek to understand man’s impact on the environment and to discover ways by which we can minimize these impacts. Laboratory and field based investigations into some of these impacts will allow students to have first-hand experience with modern methods of environmental quality analysis built around computer based probeware. Environmental Science is an applied science course in that it seeks to discover solutions to the most urgent problems facing human society today: the interrelated problems of population, resources, and pollution.",
+        "prerequisites": "Concurrent enrollment in Chemistry or Accelerated Chemistry is required to select this course in grade 10."
+    },
+    {
+        "id": 44023,
+        "title": "Accelerated Chemistry",
+        "grade": 10,
+        "eligibleGrades": [
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "Science": 1
+        },
+        "length": "Year",
+        "mandatory": false,
+        "description": "Accelerated Chemistry is a full-year, honors level course that is aligned to the Next Generation Science Standards. Taught at a faster pace, it requires more daily work and mathematical reasoning than Chemistry. This course will be of particular interest to those students who intend to pursue further science courses leading to a science-related career. The core topics of chemistry as outlined in the NGSS include: Structure & Properties of Matter, Chemical Reactions & Interactions, and Energy in Chemical Processes & Everyday Life. Within this framework, additional depth in the Accelerated Chemistry curriculum is provided on the topics of stoichiometry, atomic theory and periodicity, chemical bonding and molecular geometry, thermodynamics, kinetics, equilibrium, and electrochemistry. Laboratory investigations will allow students to have firsthand experience with both traditional and modern methods of analysis built around computer based probeware.",
+        "prerequisites": "Completion of a full-year Biology or Physical Science course, plus completion of Algebra I, Integrated Math I, or any higher level math course."
+    },
+    {
+        "id": 44027,
+        "title": "AP Biology",
+        "grade": 11,
+        "eligibleGrades": [
+            11,
+            12
+        ],
+        "credits": {
+            "Science": 1,
+            "Advanced Studies": 1
+        },
+        "length": "Year",
+        "mandatory": false,
+        "note": "Recommended: Grade of B+ or higher in full-year science courses, or a grade of B or higher in any Accelerated, AP or AT level science course.",
+        "description": "AP Biology is designed for students who are interested in higher studies in biological sciences, engineering, medicine, or related disciplines. This course will examine the four big biological ideas of Evolution, Energy, Information, and Interaction by looking at topics such as: the chemistry of life, cell structure and function, cellular energetics, cell communication and cell cycle, heredity, gene expression and regulation, natural selection, and ecology. Biological concepts will be examined through laboratory exercises that focus on inquiry and investigation from the perspective of science practices such as: concept explanation, visual representations, questions and methods, representing and describing data, statistical tests and data analysis, and argumentation. Throughout this course students will improve their capacities for problem solving and critical thinking, preparing them for further study in the biological sciences. Students will be prepared for and strongly encouraged to sit for the AP exam in May.",
+        "prerequisites": "Completion of a full-year Biology course and one other full-year science course."
+    },
+    {
+        "id": 44030,
+        "title": "AP Physics C",
+        "grade": 11,
+        "eligibleGrades": [
+            11,
+            12
+        ],
+        "credits": {
+            "Science": 1,
+            "Advanced Studies": 1
+        },
+        "length": "Year",
+        "mandatory": false,
+        "description": "AP Physics C is a set of two rigorous calculusbased physics courses for students planning on higher studies in science or engineering. The course covers topics from Mechanics and Electricity and Magnetism, providing students with the equivalent of an introductory collegelevel physics course for science majors. As an integrated course, Mechanics and Electricity and Magnetism are covered each semester. The first semester begins with algebra-based Electricity and Magnetism, transitioning to calculus-based Mechanics. The second semester begins with calculus-based Mechanics, finishing with calculusbased Electricity and Magnetism. Students who are successful in this course will be prepared for and encouraged to sit for the AP Physics C: Mechanics and AP Physics C: Electricity and Magnetism examinations.",
+        "prerequisites": "Completion of any level of full-year physics course AND completion of, or concurrent enrollment in AP Calculus AB or AP Calculus BC or any AT calculus-based course."
+    },
+    {
+        "id": 44031,
+        "title": "AP Chemistry",
+        "grade": 11,
+        "eligibleGrades": [
+            11,
+            12
+        ],
+        "credits": {
+            "Science": 1,
+            "Advanced Studies": 1
+        },
+        "length": "Year",
+        "mandatory": false,
+        "description": "AP Chemistry is a rigorous, college-level course specifically intended for students who plan higher studies in science, engineering, or medicine. Topics studied include atoms and forces, kinetics, equilibrium, thermodynamics, quantum mechanics and periodicity, electrochemistry and gaseous behavior. Laboratory work involves careful measurements and applications of theory to explain and/or predict the behavior of chemical systems. Laboratory work will include both traditional and probeware-based experiences. The subject matter in this course is presented with an emphasis on both chemical calculations and the conceptual foundation of chemical principles, so a strong mathematics background is imperative. Students will be expected to demonstrate the ability to read and comprehend sophisticated material from college level textbooks and journals and to summarize concepts. Students will be prepared for and strongly encouraged to sit for the AP exam in May.",
+        "prerequisites": "Semester I or II grade of A or higher in Chemistry; or Semester I or II grade of B or higher in Accelerated Chemistry."
+    },
+    {
+        "id": 44033,
+        "title": "AP Physics 2",
+        "grade": 11,
+        "eligibleGrades": [
+            11,
+            12
+        ],
+        "credits": {
+            "Science": 1,
+            "Advanced Studies": 1
+        },
+        "length": "Year",
+        "mandatory": false,
+        "description": "AP Physics 2 is equivalent to a second-semester college course in algebra-based physics. The course covers thermodynamics, electricity and magnetism, waves (including mechanical waves), optics, and modern (atomic, nuclear, and quantum) physics. Similar to Physics and Accelerated Physics, this course will allow students to achieve an in-depth understanding of the above topics using hands-on explorations of physics content and inquiry-based instructional strategies. In AP Physics 2, students will build on their existing understandings by using multiple representations of physical processes, solving multi-step problems, and designing investigations. The course is based on six big ideas, which encompass core scientific principles, theories, and processes that cut across traditional boundaries and provide a broad way of thinking about the physical world. Students will be prepared for and strongly encouraged to sit for the AP exam in May.",
+        "prerequisites": "Completion of any level of full-year physics. Recommended: Completion of Chemistry or Accelerated Chemistry prior to enrollment in this course."
+    },
+    {
+        "id": 44036,
+        "title": "AT Environmental Science & Field Research",
+        "grade": 10,
+        "eligibleGrades": [
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "Science": 1,
+            "Advanced Studies": 1
+        },
+        "length": "Year",
+        "mandatory": false,
+        "note": "Recommended: Completion of a full-year biology course and a full year chemistry course prior to enrollment with a Grade of B+ or higher in any general level science course, and a grade of B or higher in any Accelerated, AP or AT level science course. Students enrolled in this course may choose to take the College Board AP Environmental Science exam. Due to the mandatory field work in Malaysia, this course will have a fee estimated at $900-1000.",
+        "description": "This course is an intensive, year-long inquiry into the integration of nature, society, and the economy. The course is designed for students with a solid background in biological and chemical sciences who are passionate about solving environmental problems. A strong foundation in math is beneficial as our data analysis will require the use of dimensional analysis, half-life calculations, percent change, and significant figures. Through collaborative labs and analysis, students will explore a wide range of environmental issues and apply scientific and engineering practices to understand the integrity of ecosystems. A cornerstone of this course is the mandatory fieldwork investigation on Tioman Island, Malaysia. This essential, hands-on component allows students to apply classroom concepts directly in diverse ecosystems. During the trip, students will be immersed in field studies, including snorkeling to collect data on coral reef health, hiking to study the structure of rainforest ecosystems, and analyzing the critical coastal role of mangroves. These activities are physically demanding. This trip is both rewarding and rugged. This experience is designed to develop data collection skills and foster a greater appreciation for nature and how we can measure human impact on vital ecosystem services. Please note that there is a required cost associated with this fieldwork around $900 - $1000 to cover transportation, lodging, meals, and activities.",
+        "prerequisites": "Completion of two, full-year science courses. A semester I grade of B+ or higher in Accelerated Biology plus concurrent enrollment in another full-year science course is required to select this course in grade 10."
+    },
+    {
+        "id": 44051,
+        "title": "Accelerated Physics",
+        "grade": 10,
+        "eligibleGrades": [
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "Science": 1
+        },
+        "length": "Year",
+        "mandatory": false,
+        "note": "Students enrolled in this course may choose to take the College Board AP Physics 1 exam.",
+        "description": "Accelerated Physics is a full-year, honors-level course aligned with the Next Generation Science Standards (NGSS). The major topics defined by the NGSS for Physics are Forces and Interactions, Energy, and Waves and Electromagnetic Radiation. Taught at a deeper level and faster pace than Physics, Accelerated Physics will be of particular interest to those students who intend to pursue further science courses. The course covers a broad range of mechanics topics such as kinematics, dynamics, momentum, energy, fluids, and oscillations. For each topic, students will perform hands-on or simulated laboratory activities, analyze data and draw conclusions from given data, and solve problems using mathematical calculations. The laboratory activities provide opportunities for students to improve their skills of asking questions, designing and carrying out experiments, and understanding the physical phenomena from the activity. When analyzing data and drawing conclusions from given data, students improve their skill of reasoning by making arguments from evidence. Solving problems with mathematical calculations helps students refine their skill of mathematical and computational thinking. Throughout the course, students will apply their knowledge and skills to real-world scenarios fostering a deeper understanding of physics concepts.",
+        "prerequisites": "Concurrent enrollment in or completion of Algebra II/ Trigonometry, Accelerated Math II, Integrated Math III with PreCalculus, or a higher-level math course."
+    },
+    {
+        "id": 44052,
+        "title": "AT Science: Computational Modeling & Simulation",
+        "grade": 10,
+        "eligibleGrades": [
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "Science": 0.5,
+            "Advanced Studies": 0.5
+        },
+        "length": "Semester",
+        "mandatory": false,
+        "description": "Discover how computational modeling and simulation can be used to understand and solve real-world problems in science and engineering. This course introduces essential mathematical and computational methods, including physics simulations, system dynamics, numerical methods (Euler-Cromer), and probabilistic approaches (e.g. Monte Carlo). Students will build and analyze models using VPython, Google Sheets/Excel, and data analysis and visualization packages such as Matplotlib, gaining hands-on experience in coding, visualization, and data interpretation. The semester concludes with a student-designed capstone project that applies these skills to a topic of personal or academic interest.",
+        "prerequisites": "Completion of or concurrent enrollment in any full-year physics course. Recommended: It is recommended that students have some prior computer programming experience."
+    },
+    {
+        "id": 44518,
+        "title": "Computer Science I",
+        "grade": 9,
+        "eligibleGrades": [
+            9,
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "Tech, CS & Robotics / Catalyst": 0.5
+        },
+        "length": "Semester",
+        "mandatory": false,
+        "description": "This course is tailored for individuals who have limited or no prior programming experience. It serves as an initial exploration into the fundamentals of computing and concepts using text-based Python coding. Students will immerse themselves in learning software programming principles. Students will get to explore Python modules(existing libraries) and learn how to integrate the various functions within the module into their code. Every unit culminates in the creation of a creative project. Throughout this journey, students will acquire the skills to dissect complex problems into manageable components (decomposition), simplify real-world scenarios (abstraction), and identify and resolve errors in their code (debugging). By the end of the course, students would have completed four major projects in Python. The course is thoughtfully crafted to provide an engaging and inclusive introduction for those who seek to gain insight into the essence of programming and its role in our contemporary technological landscape. Successful completion of the course with a grade of B or higher satisfies the prerequisite for enrolling in AT Computer Science.",
+        "prerequisites": "Concurrent enrollment/request in Geometry, Integrated Math II, or higher level math class."
+    },
+    {
+        "id": 44523,
+        "title": "AT Computer Science",
+        "grade": 10,
+        "eligibleGrades": [
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "Tech, CS & Robotics / Catalyst": 1,
+            "Advanced Studies": 1
+        },
+        "length": "Year",
+        "mandatory": false,
+        "note": "Recommended: Completion of Algebra II / Trigonometry, Integrated Math III course or higher level math class. Students enrolled in this course may choose to take the College Board AP Computer Science exam.",
+        "description": "AT Computer Science is a full-year advanced course designed to teach fundamental programming concepts using the Java programming language. This course builds upon the core principles of AP Computer Science (APCS) and introduces advanced topics, such as Inheritance, through real-world applications. Students will engage with programming methodology, focusing on problem solving, algorithm development, object-oriented programming, and computational thinking. The course emphasizes hands-on experience, with projects that synthesize learning across the semester and apply it to real-world scenarios. Students are expected to commit to a regular programming schedule (approx. 2 hours per week) and independent study. While no prior programming experience is required, strong skills in logic, problem-solving, and math are helpful.",
+        "prerequisites": "Semester I grade of B or higher in Computer Science I and Concurrent enrollment/request in Geometry, Integrated Math II, or higher level math class. Rising Grade 10 students who do not meet these requirements but believe they can be successful in the course may speak with AT CS faculty and sit for an entrance test in the first week of March to determine readiness."
+    },
+    {
+        "id": 44540,
+        "title": "AT Computer Science: Data Structures",
+        "grade": 11,
+        "eligibleGrades": [
+            11,
+            12
+        ],
+        "credits": {
+            "Tech, CS & Robotics / Catalyst": 1,
+            "Advanced Studies": 1
+        },
+        "length": "Year",
+        "mandatory": false,
+        "note": "Recommended: Completion of Precalculus w/ Parametrics, Integrated Math III w/ PreCalc or higher level math class.",
+        "description": "This course is a standard third semester college course on algorithms and advanced data structures in an object-oriented environment. The data structures include arrays, lists, stacks, queues, heaps, priority queues, trees, sets, maps, and hashing. The sorting algorithms include selection, bubble, insertion, merge, radix and quick. Additional topics include recursion, the Java Collections framework, Big-O analysis, Interfaces, abstract classes unit testing, APIs, and class design. The programming language is Java. Students taking this course should be independent and analytical thinkers able to spend a significant amount of time (approx 3 hrs per week) programming in Java outside of class.",
+        "prerequisites": "Semester I grade of B or higher in AP Computer Science or AT Computer Science."
+    },
+    {
+        "id": 45037,
+        "title": "AT Chinese Language: Media & Society",
+        "grade": 9,
+        "eligibleGrades": [
+            9,
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "World Languages": 1,
+            "Advanced Studies": 1
+        },
+        "length": "Year",
+        "mandatory": false,
+        "description": "The digital era has revolutionized traditional writing, merging diverse media forms in an interconnected world. This course serves as a bridge between various media, empowering students to create boundary-crossing works. The course has two main objectives: firstly, to critically analyze a range of non-literary texts— advertisements, broadcast, gaming, speeches, opinion pieces, movies, and social media posts—exploring their language features and persuasive techniques; secondly, to enhance writing skills across multiple genres, including interviews, feature stories, precision news writing, investigative journalism, and radio, TV, and internet news. Through engaging with current affairs and real-world contexts, students will develop an acute awareness of language in Chinese news and reportage. By the end of the course, students will master the art of crafting and publishing impactful news reports and advocacy stories grounded in well-conducted interviews.",
+        "prerequisites": "Current teacher recommendation based on demonstrated proficiency and progress toward the exit target. All students new to SAS will be invited for a placement test to determine the most appropriate level."
+    },
+    {
+        "id": 45040,
+        "title": "Spanish: Novice",
+        "grade": 9,
+        "eligibleGrades": [
+            9,
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "World Languages": 1
+        },
+        "length": "Year",
+        "mandatory": false,
+        "description": "This course is for students who have little or no experience with the language. It provides students with the necessary skills to understand and create meaningful communication from early on in a supportive and rich environment. The course focuses on the development of listening and speaking through interpersonal communication. Novice speakers can manage a number of uncomplicated communicative tasks in straightforward social situations. They can express personal meaning by relying heavily on learned phrases (memorized language) or combinations of these. They also respond to simple, direct questions or requests for information. The skills of writing and interpretive listening and reading are also integrated into the course to the extent that they foster the development of students’ communicative ability as appropriate to the performance target.",
+        "prerequisites": "None"
+    },
+    {
+        "id": 45041,
+        "title": "Spanish: Intermediate",
+        "grade": 9,
+        "eligibleGrades": [
+            9,
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "World Languages": 1
+        },
+        "length": "Year",
+        "mandatory": false,
+        "note": "Dependent on enrollment numbers these courses may be scheduled concurrently with other intermediate classes of the same language. When a class is scheduled concurrently, students will receive differentiated instruction to meet their needs, will receive credit for the level of the class in which they are enrolled, and that is the course that will appear on their transcript. All students new to SAS will be invited for a placement test to determine the most appropriate level.",
+        "description": "These courses are for students who have reached at least a Novice level of performance in interpersonal listening and speaking. It is possible that students performing at the Novice Mid level could be considered for admission with teacher recommendation. With differentiation and new culturally rich thematic units each year, teachers engage and support students at whichever stage they are in the proficiency building process. This course focuses on interpersonal listening and speaking. Intermediate speakers are able to successfully handle a variety of uncomplicated communicative tasks in straightforward social situations. They can express their own thoughts and maintain conversations by asking and answering a variety of questions, allowing them to exchange information about family, home, daily activities, interests and personal preferences, as well as physical and social needs, such as food, shopping and travel. This performance target is most commonly achieved over a period of two to three years. The writing skills, plus interpretive listening and reading, are also integrated into the course to the extent that they foster the development of students’ communicative ability as appropriate to the performance target.",
+        "prerequisites": "Current teacher recommendation based on demonstrated proficiency and progress toward the exit target."
+    },
+    {
+        "id": 45042,
+        "title": "Spanish: Intermediate II",
+        "grade": 9,
+        "eligibleGrades": [
+            9,
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "World Languages": 1
+        },
+        "length": "Year",
+        "mandatory": false,
+        "note": "Dependent on enrollment numbers these courses may be scheduled concurrently with other intermediate classes of the same language. When a class is scheduled concurrently, students will receive differentiated instruction to meet their needs, will receive credit for the level of the class in which they are enrolled, and that is the course that will appear on their transcript. All students new to SAS will be invited for a placement test to determine the most appropriate level.",
+        "description": "These courses are for students who have reached at least a Novice level of performance in interpersonal listening and speaking. It is possible that students performing at the Novice Mid level could be considered for admission with teacher recommendation. With differentiation and new culturally rich thematic units each year, teachers engage and support students at whichever stage they are in the proficiency building process. This course focuses on interpersonal listening and speaking. Intermediate speakers are able to successfully handle a variety of uncomplicated communicative tasks in straightforward social situations. They can express their own thoughts and maintain conversations by asking and answering a variety of questions, allowing them to exchange information about family, home, daily activities, interests and personal preferences, as well as physical and social needs, such as food, shopping and travel. This performance target is most commonly achieved over a period of two to three years. The writing skills, plus interpretive listening and reading, are also integrated into the course to the extent that they foster the development of students’ communicative ability as appropriate to the performance target.",
+        "prerequisites": "Current teacher recommendation based on demonstrated proficiency and progress toward the exit target."
+    },
+    {
+        "id": 45043,
+        "title": "Spanish: Intermediate III",
+        "grade": 9,
+        "eligibleGrades": [
+            9,
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "World Languages": 1
+        },
+        "length": "Year",
+        "mandatory": false,
+        "note": "Dependent on enrollment numbers these courses may be scheduled concurrently with other intermediate classes of the same language. When a class is scheduled concurrently, students will receive differentiated instruction to meet their needs, will receive credit for the level of the class in which they are enrolled, and that is the course that will appear on their transcript. All students new to SAS will be invited for a placement test to determine the most appropriate level.",
+        "description": "These courses are for students who have reached at least a Novice level of performance in interpersonal listening and speaking. It is possible that students performing at the Novice Mid level could be considered for admission with teacher recommendation. With differentiation and new culturally rich thematic units each year, teachers engage and support students at whichever stage they are in the proficiency building process. This course focuses on interpersonal listening and speaking. Intermediate speakers are able to successfully handle a variety of uncomplicated communicative tasks in straightforward social situations. They can express their own thoughts and maintain conversations by asking and answering a variety of questions, allowing them to exchange information about family, home, daily activities, interests and personal preferences, as well as physical and social needs, such as food, shopping and travel. This performance target is most commonly achieved over a period of two to three years. The writing skills, plus interpretive listening and reading, are also integrated into the course to the extent that they foster the development of students’ communicative ability as appropriate to the performance target.",
+        "prerequisites": "Current teacher recommendation based on demonstrated proficiency and progress toward the exit target."
+    },
+    {
+        "id": 45044,
+        "title": "Spanish: Intermediate High",
+        "grade": 9,
+        "eligibleGrades": [
+            9,
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "World Languages": 1
+        },
+        "length": "Year",
+        "mandatory": false,
+        "note": "Dependent on enrollment numbers these courses may be scheduled concurrently with other intermediate classes of the same language. When a class is scheduled concurrently, students will receive differentiated instruction to meet their needs, will receive credit for the level of the class in which they are enrolled, and that is the course that will appear on their transcript. All students new to SAS will be invited for a placement test to determine the most appropriate level.",
+        "description": "These courses are for students who have demonstrated a solid Intermediate Mid level of proficiency in interpersonal listening and speaking. With differentiation and new culturally rich thematic units each year, teachers engage with and support students by meeting them where they are at in the proficiency building process. While this course continues to emphasize interpersonal listening and speaking, interpretive listening and reading, and presentational writing, these skills are more formally developed and assessed at the intermediate high level. Intermediate High speakers are able to successfully handle uncomplicated tasks and social situations requiring an exchange of information about their school, recreation, particular interests, and areas of competence. They also demonstrate an increasing ability to express their own ideas about some topics beyond themselves such as current events or matters of public and community interest. Students at this level also demonstrate the ability to resolve problems they might encounter in their daily lives. Intermediate High students will learn to narrate and describe in three major time frames - present, past, and future - mostly in connected paragraphs.",
+        "prerequisites": "Current teacher recommendation based on demonstrated proficiency and progress toward the exit target."
+    },
+    {
+        "id": 45045,
+        "title": "Spanish: Intermediate High II",
+        "grade": 9,
+        "eligibleGrades": [
+            9,
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "World Languages": 1
+        },
+        "length": "Year",
+        "mandatory": false,
+        "note": "Dependent on enrollment numbers these courses may be scheduled concurrently with other intermediate classes of the same language. When a class is scheduled concurrently, students will receive differentiated instruction to meet their needs, will receive credit for the level of the class in which they are enrolled, and that is the course that will appear on their transcript. All students new to SAS will be invited for a placement test to determine the most appropriate level.",
+        "description": "These courses are for students who have demonstrated a solid Intermediate Mid level of proficiency in interpersonal listening and speaking. With differentiation and new culturally rich thematic units each year, teachers engage with and support students by meeting them where they are at in the proficiency building process. While this course continues to emphasize interpersonal listening and speaking, interpretive listening and reading, and presentational writing, these skills are more formally developed and assessed at the intermediate high level. Intermediate High speakers are able to successfully handle uncomplicated tasks and social situations requiring an exchange of information about their school, recreation, particular interests, and areas of competence. They also demonstrate an increasing ability to express their own ideas about some topics beyond themselves such as current events or matters of public and community interest. Students at this level also demonstrate the ability to resolve problems they might encounter in their daily lives. Intermediate High students will learn to narrate and describe in three major time frames - present, past, and future - mostly in connected paragraphs.",
+        "prerequisites": "Current teacher recommendation based on demonstrated proficiency and progress toward the exit target."
+    },
+    {
+        "id": 45050,
+        "title": "French: Novice",
+        "grade": 9,
+        "eligibleGrades": [
+            9,
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "World Languages": 1
+        },
+        "length": "Year",
+        "mandatory": false,
+        "description": "This course is for students who have little or no experience with the language. It provides students with the necessary skills to understand and create meaningful communication from early on in a supportive and rich environment. The course focuses on the development of listening and speaking through interpersonal communication. Novice speakers can manage a number of uncomplicated communicative tasks in straightforward social situations. They can express personal meaning by relying heavily on learned phrases (memorized language) or combinations of these. They also respond to simple, direct questions or requests for information. The skills of writing and interpretive listening and reading are also integrated into the course to the extent that they foster the development of students’ communicative ability as appropriate to the performance target.",
+        "prerequisites": "None"
+    },
+    {
+        "id": 45051,
+        "title": "French: Intermediate",
+        "grade": 9,
+        "eligibleGrades": [
+            9,
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "World Languages": 1
+        },
+        "length": "Year",
+        "mandatory": false,
+        "note": "Dependent on enrollment numbers these courses may be scheduled concurrently with other intermediate classes of the same language. When a class is scheduled concurrently, students will receive differentiated instruction to meet their needs, will receive credit for the level of the class in which they are enrolled, and that is the course that will appear on their transcript. All students new to SAS will be invited for a placement test to determine the most appropriate level.",
+        "description": "These courses are for students who have reached at least a Novice level of performance in interpersonal listening and speaking. It is possible that students performing at the Novice Mid level could be considered for admission with teacher recommendation. With differentiation and new culturally rich thematic units each year, teachers engage and support students at whichever stage they are in the proficiency building process. This course focuses on interpersonal listening and speaking. Intermediate speakers are able to successfully handle a variety of uncomplicated communicative tasks in straightforward social situations. They can express their own thoughts and maintain conversations by asking and answering a variety of questions, allowing them to exchange information about family, home, daily activities, interests and personal preferences, as well as physical and social needs, such as food, shopping and travel. This performance target is most commonly achieved over a period of two to three years. The writing skills, plus interpretive listening and reading, are also integrated into the course to the extent that they foster the development of students’ communicative ability as appropriate to the performance target.",
+        "prerequisites": "Current teacher recommendation based on demonstrated proficiency and progress toward the exit target."
+    },
+    {
+        "id": 45052,
+        "title": "French: Intermediate II",
+        "grade": 9,
+        "eligibleGrades": [
+            9,
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "World Languages": 1
+        },
+        "length": "Year",
+        "mandatory": false,
+        "note": "Dependent on enrollment numbers these courses may be scheduled concurrently with other intermediate classes of the same language. When a class is scheduled concurrently, students will receive differentiated instruction to meet their needs, will receive credit for the level of the class in which they are enrolled, and that is the course that will appear on their transcript. All students new to SAS will be invited for a placement test to determine the most appropriate level.",
+        "description": "These courses are for students who have reached at least a Novice level of performance in interpersonal listening and speaking. It is possible that students performing at the Novice Mid level could be considered for admission with teacher recommendation. With differentiation and new culturally rich thematic units each year, teachers engage and support students at whichever stage they are in the proficiency building process. This course focuses on interpersonal listening and speaking. Intermediate speakers are able to successfully handle a variety of uncomplicated communicative tasks in straightforward social situations. They can express their own thoughts and maintain conversations by asking and answering a variety of questions, allowing them to exchange information about family, home, daily activities, interests and personal preferences, as well as physical and social needs, such as food, shopping and travel. This performance target is most commonly achieved over a period of two to three years. The writing skills, plus interpretive listening and reading, are also integrated into the course to the extent that they foster the development of students’ communicative ability as appropriate to the performance target.",
+        "prerequisites": "Current teacher recommendation based on demonstrated proficiency and progress toward the exit target."
+    },
+    {
+        "id": 45053,
+        "title": "French: Intermediate III",
+        "grade": 9,
+        "eligibleGrades": [
+            9,
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "World Languages": 1
+        },
+        "length": "Year",
+        "mandatory": false,
+        "note": "Dependent on enrollment numbers these courses may be scheduled concurrently with other intermediate classes of the same language. When a class is scheduled concurrently, students will receive differentiated instruction to meet their needs, will receive credit for the level of the class in which they are enrolled, and that is the course that will appear on their transcript. All students new to SAS will be invited for a placement test to determine the most appropriate level.",
+        "description": "These courses are for students who have reached at least a Novice level of performance in interpersonal listening and speaking. It is possible that students performing at the Novice Mid level could be considered for admission with teacher recommendation. With differentiation and new culturally rich thematic units each year, teachers engage and support students at whichever stage they are in the proficiency building process. This course focuses on interpersonal listening and speaking. Intermediate speakers are able to successfully handle a variety of uncomplicated communicative tasks in straightforward social situations. They can express their own thoughts and maintain conversations by asking and answering a variety of questions, allowing them to exchange information about family, home, daily activities, interests and personal preferences, as well as physical and social needs, such as food, shopping and travel. This performance target is most commonly achieved over a period of two to three years. The writing skills, plus interpretive listening and reading, are also integrated into the course to the extent that they foster the development of students’ communicative ability as appropriate to the performance target.",
+        "prerequisites": "Current teacher recommendation based on demonstrated proficiency and progress toward the exit target."
+    },
+    {
+        "id": 45054,
+        "title": "French: Intermediate High",
+        "grade": 9,
+        "eligibleGrades": [
+            9,
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "World Languages": 1
+        },
+        "length": "Year",
+        "mandatory": false,
+        "note": "Dependent on enrollment numbers these courses may be scheduled concurrently with other intermediate classes of the same language. When a class is scheduled concurrently, students will receive differentiated instruction to meet their needs, will receive credit for the level of the class in which they are enrolled, and that is the course that will appear on their transcript. All students new to SAS will be invited for a placement test to determine the most appropriate level.",
+        "description": "These courses are for students who have demonstrated a solid Intermediate Mid level of proficiency in interpersonal listening and speaking. With differentiation and new culturally rich thematic units each year, teachers engage with and support students by meeting them where they are at in the proficiency building process. While this course continues to emphasize interpersonal listening and speaking, interpretive listening and reading, and presentational writing, these skills are more formally developed and assessed at the intermediate high level. Intermediate High speakers are able to successfully handle uncomplicated tasks and social situations requiring an exchange of information about their school, recreation, particular interests, and areas of competence. They also demonstrate an increasing ability to express their own ideas about some topics beyond themselves such as current events or matters of public and community interest. Students at this level also demonstrate the ability to resolve problems they might encounter in their daily lives. Intermediate High students will learn to narrate and describe in three major time frames - present, past, and future - mostly in connected paragraphs.",
+        "prerequisites": "Current teacher recommendation based on demonstrated proficiency and progress toward the exit target."
+    },
+    {
+        "id": 45055,
+        "title": "French: Intermediate High II",
+        "grade": 9,
+        "eligibleGrades": [
+            9,
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "World Languages": 1
+        },
+        "length": "Year",
+        "mandatory": false,
+        "note": "Dependent on enrollment numbers these courses may be scheduled concurrently with other intermediate classes of the same language. When a class is scheduled concurrently, students will receive differentiated instruction to meet their needs, will receive credit for the level of the class in which they are enrolled, and that is the course that will appear on their transcript. All students new to SAS will be invited for a placement test to determine the most appropriate level.",
+        "description": "These courses are for students who have demonstrated a solid Intermediate Mid level of proficiency in interpersonal listening and speaking. With differentiation and new culturally rich thematic units each year, teachers engage with and support students by meeting them where they are at in the proficiency building process. While this course continues to emphasize interpersonal listening and speaking, interpretive listening and reading, and presentational writing, these skills are more formally developed and assessed at the intermediate high level. Intermediate High speakers are able to successfully handle uncomplicated tasks and social situations requiring an exchange of information about their school, recreation, particular interests, and areas of competence. They also demonstrate an increasing ability to express their own ideas about some topics beyond themselves such as current events or matters of public and community interest. Students at this level also demonstrate the ability to resolve problems they might encounter in their daily lives. Intermediate High students will learn to narrate and describe in three major time frames - present, past, and future - mostly in connected paragraphs.",
+        "prerequisites": "Current teacher recommendation based on demonstrated proficiency and progress toward the exit target."
+    },
+    {
+        "id": 45060,
+        "title": "Chinese: Novice",
+        "grade": 9,
+        "eligibleGrades": [
+            9,
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "World Languages": 1
+        },
+        "length": "Year",
+        "mandatory": false,
+        "description": "This course is for students who have little or no experience with the language. It provides students with the necessary skills to understand and create meaningful communication from early on in a supportive and rich environment. The course focuses on the development of listening and speaking through interpersonal communication. Novice speakers can manage a number of uncomplicated communicative tasks in straightforward social situations. They can express personal meaning by relying heavily on learned phrases (memorized language) or combinations of these. They also respond to simple, direct questions or requests for information. The skills of writing and interpretive listening and reading are also integrated into the course to the extent that they foster the development of students’ communicative ability as appropriate to the performance target.",
+        "prerequisites": "None"
+    },
+    {
+        "id": 45061,
+        "title": "Chinese: Intermediate",
+        "grade": 9,
+        "eligibleGrades": [
+            9,
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "World Languages": 1
+        },
+        "length": "Year",
+        "mandatory": false,
+        "note": "Dependent on enrollment numbers these courses may be scheduled concurrently with other intermediate classes of the same language. When a class is scheduled concurrently, students will receive differentiated instruction to meet their needs, will receive credit for the level of the class in which they are enrolled, and that is the course that will appear on their transcript. All students new to SAS will be invited for a placement test to determine the most appropriate level.",
+        "description": "These courses are for students who have reached at least a Novice level of performance in interpersonal listening and speaking. It is possible that students performing at the Novice Mid level could be considered for admission with teacher recommendation. With differentiation and new culturally rich thematic units each year, teachers engage and support students at whichever stage they are in the proficiency building process. This course focuses on interpersonal listening and speaking. Intermediate speakers are able to successfully handle a variety of uncomplicated communicative tasks in straightforward social situations. They can express their own thoughts and maintain conversations by asking and answering a variety of questions, allowing them to exchange information about family, home, daily activities, interests and personal preferences, as well as physical and social needs, such as food, shopping and travel. This performance target is most commonly achieved over a period of two to three years. The writing skills, plus interpretive listening and reading, are also integrated into the course to the extent that they foster the development of students’ communicative ability as appropriate to the performance target.",
+        "prerequisites": "Current teacher recommendation based on demonstrated proficiency and progress toward the exit target."
+    },
+    {
+        "id": 45062,
+        "title": "Chinese: Intermediate II",
+        "grade": 9,
+        "eligibleGrades": [
+            9,
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "World Languages": 1
+        },
+        "length": "Year",
+        "mandatory": false,
+        "note": "Dependent on enrollment numbers these courses may be scheduled concurrently with other intermediate classes of the same language. When a class is scheduled concurrently, students will receive differentiated instruction to meet their needs, will receive credit for the level of the class in which they are enrolled, and that is the course that will appear on their transcript. All students new to SAS will be invited for a placement test to determine the most appropriate level.",
+        "description": "These courses are for students who have reached at least a Novice level of performance in interpersonal listening and speaking. It is possible that students performing at the Novice Mid level could be considered for admission with teacher recommendation. With differentiation and new culturally rich thematic units each year, teachers engage and support students at whichever stage they are in the proficiency building process. This course focuses on interpersonal listening and speaking. Intermediate speakers are able to successfully handle a variety of uncomplicated communicative tasks in straightforward social situations. They can express their own thoughts and maintain conversations by asking and answering a variety of questions, allowing them to exchange information about family, home, daily activities, interests and personal preferences, as well as physical and social needs, such as food, shopping and travel. This performance target is most commonly achieved over a period of two to three years. The writing skills, plus interpretive listening and reading, are also integrated into the course to the extent that they foster the development of students’ communicative ability as appropriate to the performance target.",
+        "prerequisites": "Current teacher recommendation based on demonstrated proficiency and progress toward the exit target."
+    },
+    {
+        "id": 45063,
+        "title": "Chinese: Intermediate III",
+        "grade": 9,
+        "eligibleGrades": [
+            9,
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "World Languages": 1
+        },
+        "length": "Year",
+        "mandatory": false,
+        "note": "Dependent on enrollment numbers these courses may be scheduled concurrently with other intermediate classes of the same language. When a class is scheduled concurrently, students will receive differentiated instruction to meet their needs, will receive credit for the level of the class in which they are enrolled, and that is the course that will appear on their transcript. All students new to SAS will be invited for a placement test to determine the most appropriate level.",
+        "description": "These courses are for students who have reached at least a Novice level of performance in interpersonal listening and speaking. It is possible that students performing at the Novice Mid level could be considered for admission with teacher recommendation. With differentiation and new culturally rich thematic units each year, teachers engage and support students at whichever stage they are in the proficiency building process. This course focuses on interpersonal listening and speaking. Intermediate speakers are able to successfully handle a variety of uncomplicated communicative tasks in straightforward social situations. They can express their own thoughts and maintain conversations by asking and answering a variety of questions, allowing them to exchange information about family, home, daily activities, interests and personal preferences, as well as physical and social needs, such as food, shopping and travel. This performance target is most commonly achieved over a period of two to three years. The writing skills, plus interpretive listening and reading, are also integrated into the course to the extent that they foster the development of students’ communicative ability as appropriate to the performance target.",
+        "prerequisites": "Current teacher recommendation based on demonstrated proficiency and progress toward the exit target."
+    },
+    {
+        "id": 45064,
+        "title": "Chinese: Intermediate High",
+        "grade": 9,
+        "eligibleGrades": [
+            9,
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "World Languages": 1
+        },
+        "length": "Year",
+        "mandatory": false,
+        "note": "Dependent on enrollment numbers these courses may be scheduled concurrently with other intermediate classes of the same language. When a class is scheduled concurrently, students will receive differentiated instruction to meet their needs, will receive credit for the level of the class in which they are enrolled, and that is the course that will appear on their transcript. All students new to SAS will be invited for a placement test to determine the most appropriate level.",
+        "description": "These courses are for students who have demonstrated a solid Intermediate Mid level of proficiency in interpersonal listening and speaking. With differentiation and new culturally rich thematic units each year, teachers engage with and support students by meeting them where they are at in the proficiency building process. While this course continues to emphasize interpersonal listening and speaking, interpretive listening and reading, and presentational writing, these skills are more formally developed and assessed at the intermediate high level. Intermediate High speakers are able to successfully handle uncomplicated tasks and social situations requiring an exchange of information about their school, recreation, particular interests, and areas of competence. They also demonstrate an increasing ability to express their own ideas about some topics beyond themselves such as current events or matters of public and community interest. Students at this level also demonstrate the ability to resolve problems they might encounter in their daily lives. Intermediate High students will learn to narrate and describe in three major time frames - present, past, and future - mostly in connected paragraphs.",
+        "prerequisites": "Current teacher recommendation based on demonstrated proficiency and progress toward the exit target."
+    },
+    {
+        "id": 45065,
+        "title": "Chinese: Intermediate High II",
+        "grade": 9,
+        "eligibleGrades": [
+            9,
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "World Languages": 1
+        },
+        "length": "Year",
+        "mandatory": false,
+        "note": "Dependent on enrollment numbers these courses may be scheduled concurrently with other intermediate classes of the same language. When a class is scheduled concurrently, students will receive differentiated instruction to meet their needs, will receive credit for the level of the class in which they are enrolled, and that is the course that will appear on their transcript. All students new to SAS will be invited for a placement test to determine the most appropriate level.",
+        "description": "These courses are for students who have demonstrated a solid Intermediate Mid level of proficiency in interpersonal listening and speaking. With differentiation and new culturally rich thematic units each year, teachers engage with and support students by meeting them where they are at in the proficiency building process. While this course continues to emphasize interpersonal listening and speaking, interpretive listening and reading, and presentational writing, these skills are more formally developed and assessed at the intermediate high level. Intermediate High speakers are able to successfully handle uncomplicated tasks and social situations requiring an exchange of information about their school, recreation, particular interests, and areas of competence. They also demonstrate an increasing ability to express their own ideas about some topics beyond themselves such as current events or matters of public and community interest. Students at this level also demonstrate the ability to resolve problems they might encounter in their daily lives. Intermediate High students will learn to narrate and describe in three major time frames - present, past, and future - mostly in connected paragraphs.",
+        "prerequisites": "Current teacher recommendation based on demonstrated proficiency and progress toward the exit target."
+    },
+    {
+        "id": 46100,
+        "title": "Art I: Foundations",
+        "grade": 9,
+        "eligibleGrades": [
+            9,
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "Visual & Performing Arts": 0.5
+        },
+        "length": "Semester",
+        "mandatory": false,
+        "description": "In this survey course, students are exposed to a variety of media through study of the elements and principles of art and design. Students acquire and apply skills using a variety of media and techniques. Pencil, charcoal, colored pencil, various paints, sculptural materials and linoleum for printmaking are examples of media offered to students. Emphasis is placed on skills acquisition and creativity. This course enables students to identify their strengths and possible areas of interest for future development. It provides the necessary foundation for the more advanced Studio Art courses.",
+        "prerequisites": "None"
+    },
+    {
+        "id": 46104,
+        "title": "Ceramics I",
+        "grade": 9,
+        "eligibleGrades": [
+            9,
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "Visual & Performing Arts": 0.5
+        },
+        "length": "Semester",
+        "mandatory": false,
+        "description": "In this one-semester course, students learn basic hand building, decorating and glazing techniques. Students are free to develop their own ideas within structured guidelines while building on acquired skills. Students leave the class with an assortment of forms of different functions, shapes, and sizes. Instructional time is also spent on sculptural pieces. Students are responsible for preparing their materials and looking after their pieces through the various stages of the ceramic process from construction through glazing. An introduction to glaze chemistry will be given as a part of this course but will not be the focus. This course is a prerequisite for students who wish to continue on to learn potter’s wheel techniques in Ceramics II.",
+        "prerequisites": "None"
+    },
+    {
+        "id": 46522,
+        "title": "Robotics Science",
+        "grade": 9,
+        "eligibleGrades": [
+            9,
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "Tech, CS & Robotics / Catalyst": 0.5
+        },
+        "length": "Semester",
+        "mandatory": false,
+        "description": "This course applies learning in the areas of mechanics, electronics, CAD, and robotics design. Students will investigate criteria and constraints to integrate robotic solutions into realworld problems, applying a hands-on, iterative approach to the projects. By combining technical skills with research and collaboration, students will develop creative solutions and refine them through testing and feedback. Class projects will be shared with an authentic audience, and successful students will excel in collaboration, innovation, and perseverance.",
+        "prerequisites": "None"
+    },
+    {
+        "id": 46524,
+        "title": "Business",
+        "grade": 10,
+        "eligibleGrades": [
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "Tech, CS & Robotics / Catalyst": 0.5
+        },
+        "length": "Semester",
+        "mandatory": false,
+        "note": "Offered in 2026-27. May not be offered in 2027-28.",
+        "description": "This course will explore the world of modern business through project-based learning. The course will guide students through the essential activities of an enterprise, including finance and accounting, human resources, operations, and marketing. Students will become critical thinkers, analyzing, discussing, and solving realworld business case problems. Students also improve their written and oral communication skills in authentic settings when reporting their solutions to business cases. Students will polish their technology skills by authentically using computer skills as business people would: preparing presentations, calculating, preparing, and analyzing quantitative data in Excel, and creating marketing materials using image and video manipulation tools. The course is designed for those who would like a better understanding of the world of commerce or hope to one day join the business field.",
+        "prerequisites": "None"
+    },
+    {
+        "id": 46531,
+        "title": "Personal Finance: You and Your Money",
+        "grade": 10,
+        "eligibleGrades": [
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "Tech, CS & Robotics / Catalyst": 0.5
+        },
+        "length": "Semester",
+        "mandatory": false,
+        "note": "Not offered in 2026-27. May be offered in 2027-28.",
+        "description": "Few high school and college graduates are financially literate when they first enter the workforce. This course gives students an advantage in the real world by developing their financial literacy. Students will learn that high salaries don’t guarantee future wealth unless earnings are properly managed. Students will learn to manage their money through responsible spending and investing habits. In this course students will track their own daily spending from the first day of the class and explore the merits of careful consumption and effective investing through a series of project-based discoveries.",
+        "prerequisites": "None"
+    },
+    {
+        "id": 46560,
+        "title": "AT Entrepreneurship",
+        "grade": 10,
+        "eligibleGrades": [
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "Tech, CS & Robotics / Catalyst": 0.5,
+            "Advanced Studies": 0.5
+        },
+        "length": "Semester",
+        "mandatory": false,
+        "description": "Entrepreneurship provides real world, handson learning on what it’s like to actually start a company. The goal is to give students a framework to test the business model of a startup while creating all of the pressures and demands of the real world in an early stage start-up. They will learn marketing, finance, and other business disciplines, while also acquiring organizational skills such as time management and leadership development. The class is also a vehicle to develop character, intellect, and resilience in students. Students start the semester with an immediate immersion into the Lean Startup methodology adopted from University of California Berkeley and Design Thinking techniques from Stanford University. As students develop skills through working in the field, observing and interviewing to discover problems, and learning techniques for validating hypotheses, they learn by doing, through real world problems and collaborating with real entrepreneurs. Students work with carefully selected Singapore entrepreneurs, who present real and urgent business problems with hard deliverables and deadlines. Students learn processes including customer development, agile development, and rapid prototyping. Throughout the course, students will learn to problem solve, think critically, make well-informed decisions, communicate effectively, and engage in productive and successful team work. In the final portion of the course, students use everything they’ve learned about entrepreneurship and group work to launch their own startups. The course requires rigorous study and emphasizes in-depth research.",
+        "prerequisites": "Semester I grade of B+ or higher in Humanities 9 is required to select this course in grade 10."
+    },
+    {
+        "id": 48016,
+        "title": "Racquet Sports",
+        "grade": 9,
+        "eligibleGrades": [
+            9,
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "PE & Health": 0.5
+        },
+        "length": "Semester",
+        "mandatory": false,
+        "description": "In this course, students will engage in a variety of racquet sports, such as badminton, table tennis, pickleball, and tennis. The focus is on skill development and the application of techniques within diverse sporting contexts. Teamwork, effective communication, and adherence to rules are central themes, encouraging students to develop a sense of fair play and an appreciation for lifelong fitness. While the majority of classes will take place indoors, an outdoor venue will be used periodically",
+        "prerequisites": "None"
+    },
+    {
+        "id": 48515,
+        "title": "AT Research & Catalyst",
+        "grade": 11,
+        "eligibleGrades": [
+            11,
+            12
+        ],
+        "credits": {
+            "Tech, CS & Robotics / Catalyst": 1,
+            "Advanced Studies": 1
+        },
+        "length": "Year",
+        "mandatory": false,
+        "note": "Students will be eligible to take the AP Research exam in preparation for earning the AP Capstone Diploma.",
+        "description": "In the AT Research & Catalyst course, students continue to apply the skills learned in AT Seminar to embark on a rigorous, year-long inquiry into an academic topic of their choice. Students learn to design and execute a sophisticated qualitative, quantitative, or mixed-methods, gathering and analyzing original data to generate novel insights and contribute new knowledge to their chosen field. This independent work is supported by a network of expert mentors and enriched through experiential learning opportunities. The course concludes with a 5,000-word research paper, a formal oral defense of their thesis, and the submission of their work to a peer-reviewed academic journal. Successful completion makes students eligible for the AP Capstone diploma and fulfills the SAS Catalyst requirement.",
+        "prerequisites": "AT Seminar."
+    },
+    {
+        "id": 48520,
+        "title": "AT Seminar",
+        "grade": 10,
+        "eligibleGrades": [
+            10,
+            11,
+            12
+        ],
+        "credits": {
+            "Social Studies": 1,
+            "Advanced Studies": 1
+        },
+        "length": "Year",
+        "mandatory": false,
+        "note": "Students will be eligible to take the AP Seminar exam in preparation for earning the AP Capstone Diploma.",
+        "description": "The AT Seminar is the first year of the AT Research & Catalyst program. This inquiry-driven course helps students develop the skills for college-level work by exploring real-world topics of their interest from multiple perspectives. Students learn to collect, analyze, and use scholarly sources to build and present evidence-based arguments both in writing and to a live audience. Since teamwork is key to research, a significant portion of the course involves collaborative work. Students submit individual papers and both individual and team presentations to the College Board. Completing AT Seminar prepares students for AT Research & Catalyst experience in the following year.",
+        "prerequisites": "Semester I grade of A or higher in Humanities 9 is required to select this course in grade 10. Semester 1 grade of B+ or higher in English 10 or American Studies is required to select this course in grade 11."
+    }
+]

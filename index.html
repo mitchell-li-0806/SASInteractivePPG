@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SAS Course Planner</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header class="header">
+            <div class="header-content">
+                <h1>Course Planning Tool</h1>
+                <p>Singapore American School - High School Course Selection</p>
+            </div>
+        </header>
+
+        <main class="main-content">
+            <!-- Instructions -->
+            <section class="section instructions-section">
+                <h2>Course Selection Guide</h2>
+                <p>Humanities 9 is mandatory for all Grade 9 students. Drag and drop courses into the appropriate credit category and grade level below.</p>
+            </section>
+
+            <!-- Main Planning Area -->
+            <div class="planning-area">
+                <!-- Left Side: Course Menu -->
+                <div class="left-panel">
+                    <section class="section available-courses-section">
+                        <h2>Available Courses</h2>
+
+                        <!-- Course Filters -->
+                        <div class="course-filters">
+                            <div class="filter-group">
+                                <label for="gradeFilter">Grade Level:</label>
+                                <select id="gradeFilter">
+                                    <option value="">All Grades</option>
+                                    <option value="9">Grade 9</option>
+                                    <option value="10">Grade 10</option>
+                                    <option value="11">Grade 11</option>
+                                    <option value="12">Grade 12</option>
+                                </select>
+                            </div>
+
+                            <div class="filter-group">
+                                <label for="categoryFilter">Category:</label>
+                                <select id="categoryFilter">
+                                    <option value="">All Categories</option>
+                                    <option value="English">English</option>
+                                    <option value="Advanced Studies">Advanced Studies</option>
+                                    <option value="Social Studies">Social Studies</option>
+                                    <option value="Mathematics">Mathematics</option>
+                                    <option value="Science">Science</option>
+                                    <option value="World Languages">World Languages</option>
+                                    <option value="Visual & Performing Arts">Visual & Performing Arts</option>
+                                    <option value="PE & Health">PE & Health</option>
+                                    <option value="Tech, CS & Robotics / Catalyst">Tech, CS & Robotics / Catalyst</option>
+                                </select>
+                            </div>
+
+                            <div class="filter-group">
+                                <label for="searchFilter">Search:</label>
+                                <input type="text" id="searchFilter" placeholder="Search courses...">
+                            </div>
+                        </div>
+
+                        <div class="courses-list-widget">
+                            <div class="courses-list" id="coursesList">
+                                <!-- Courses will be generated here -->
+                            </div>
+                        </div>
+                    </section>
+                </div>
+
+                <!-- Right Side: Schedule -->
+                <div class="right-panel">
+                    <section class="section schedule-section">
+                        <h2>Your Schedule</h2>
+                        <div class="schedule-import-widget">
+                            <div class="schedule-import-header" id="toggleImportSchedule" role="button" tabindex="0" aria-expanded="false" aria-controls="scheduleImportPanel">
+                                <h3>Import / Export Schedule</h3>
+                            </div>
+                            <div class="schedule-import-panel" id="scheduleImportPanel" hidden>
+                                <p class="schedule-import-help">Paste one space-separated token stream. Use suffixed entries such as `41009G9S1E` or `41009G9S1TCRC`. Use `-` for blanks. If multiple tokens target the same cell, the first one wins.</p>
+                                <textarea id="scheduleImportInput" class="schedule-import-textarea" spellcheck="false" placeholder="41004G9YE 41013G10SS 43026G10M 44019G10S 41017G11E 42036G10SS 43028G10M 46012G11VPA 41022G11E 42014G10SS 43032G9M 47008G12WL"></textarea>
+                                <div class="schedule-import-actions">
+                                    <button type="button" class="schedule-import-button" id="applyImportSchedule">Import</button>
+                                    <button type="button" class="schedule-import-button secondary" id="exportImportSchedule">Export</button>
+                                    <button type="button" class="schedule-import-button secondary" id="clearImportSchedule">Clear</button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="schedule-container">
+                            <table class="schedule-table">
+                                <thead>
+                                    <tr>
+                                        <th rowspan="2">Credit Category</th>
+                                        <th colspan="2">Grade 9</th>
+                                        <th colspan="2">Grade 10</th>
+                                        <th colspan="2">Grade 11</th>
+                                        <th colspan="2">Grade 12</th>
+                                    </tr>
+                                    <tr>
+                                        <th>Sem 1</th>
+                                        <th>Sem 2</th>
+                                        <th>Sem 1</th>
+                                        <th>Sem 2</th>
+                                        <th>Sem 1</th>
+                                        <th>Sem 2</th>
+                                        <th>Sem 1</th>
+                                        <th>Sem 2</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr data-period="1">
+                                        <td class="period-cell">English</td>
+                                        <td class="course-cell" data-grade="9" data-semester="S1" data-period="1" ondrop="dropCourse(event)" ondragover="allowDrop(event)"></td>
+                                        <td class="course-cell" data-grade="9" data-semester="S2" data-period="1" ondrop="dropCourse(event)" ondragover="allowDrop(event)"></td>
+                                        <td class="course-cell" data-grade="10" data-semester="S1" data-period="1" ondrop="dropCourse(event)" ondragover="allowDrop(event)"></td>
+                                        <td class="course-cell" data-grade="10" data-semester="S2" data-period="1" ondrop="dropCourse(event)" ondragover="allowDrop(event)"></td>
+                                        <td class="course-cell" data-grade="11" data-semester="S1" data-period="1" ondrop="dropCourse(event)" ondragover="allowDrop(event)"></td>
+                                        <td class="course-cell" data-grade="11" data-semester="S2" data-period="1" ondrop="dropCourse(event)" ondragover="allowDrop(event)"></td>
+                                        <td class="course-cell" data-grade="12" data-semester="S1" data-period="1" ondrop="dropCourse(event)" ondragover="allowDrop(event)"></td>
+                                        <td class="course-cell" data-grade="12" data-semester="S2" data-period="1" ondrop="dropCourse(event)" ondragover="allowDrop(event)"></td>
+                                    </tr>
+                                    <tr data-period="2">
+                                        <td class="period-cell">Social Studies</td>
+                                        <td class="course-cell" data-grade="9" data-semester="S1" data-period="2" ondrop="dropCourse(event)" ondragover="allowDrop(event)"></td>
+                                        <td class="course-cell" data-grade="9" data-semester="S2" data-period="2" ondrop="dropCourse(event)" ondragover="allowDrop(event)"></td>
+                                        <td class="course-cell" data-grade="10" data-semester="S1" data-period="2" ondrop="dropCourse(event)" ondragover="allowDrop(event)"></td>
+                                        <td class="course-cell" data-grade="10" data-semester="S2" data-period="2" ondrop="dropCourse(event)" ondragover="allowDrop(event)"></td>
+                                        <td class="course-cell" data-grade="11" data-semester="S1" data-period="2" ondrop="dropCourse(event)" ondragover="allowDrop(event)"></td>
+                                        <td class="course-cell" data-grade="11" data-semester="S2" data-period="2" ondrop="dropCourse(event)" ondragover="allowDrop(event)"></td>
+                                        <td class="course-cell" data-grade="12" data-semester="S1" data-period="2" ondrop="dropCourse(event)" ondragover="allowDrop(event)"></td>
+                                        <td class="course-cell" data-grade="12" data-semester="S2" data-period="2" ondrop="dropCourse(event)" ondragover="allowDrop(event)"></td>
+                                    </tr>
+                                    <tr data-period="3">
+                                        <td class="period-cell">Mathematics</td>
+                                        <td class="course-cell" data-grade="9" data-semester="S1" data-period="3" ondrop="dropCourse(event)" ondragover="allowDrop(event)"></td>
+                                        <td class="course-cell" data-grade="9" data-semester="S2" data-period="3" ondrop="dropCourse(event)" ondragover="allowDrop(event)"></td>
+                                        <td class="course-cell" data-grade="10" data-semester="S1" data-period="3" ondrop="dropCourse(event)" ondragover="allowDrop(event)"></td>
+                                        <td class="course-cell" data-grade="10" data-semester="S2" data-period="3" ondrop="dropCourse(event)" ondragover="allowDrop(event)"></td>
+                                        <td class="course-cell" data-grade="11" data-semester="S1" data-period="3" ondrop="dropCourse(event)" ondragover="allowDrop(event)"></td>
+                                        <td class="course-cell" data-grade="11" data-semester="S2" data-period="3" ondrop="dropCourse(event)" ondragover="allowDrop(event)"></td>
+                                        <td class="course-cell" data-grade="12" data-semester="S1" data-period="3" ondrop="dropCourse(event)" ondragover="allowDrop(event)"></td>
+                                        <td class="course-cell" data-grade="12" data-semester="S2" data-period="3" ondrop="dropCourse(event)" ondragover="allowDrop(event)"></td>
+                                    </tr>
+                                    <tr data-period="4">
+                                        <td class="period-cell">Science</td>
+                                        <td class="course-cell" data-grade="9" data-semester="S1" data-period="4" ondrop="dropCourse(event)" ondragover="allowDrop(event)"></td>
+                                        <td class="course-cell" data-grade="9" data-semester="S2" data-period="4" ondrop="dropCourse(event)" ondragover="allowDrop(event)"></td>
+                                        <td class="course-cell" data-grade="10" data-semester="S1" data-period="4" ondrop="dropCourse(event)" ondragover="allowDrop(event)"></td>
+                                        <td class="course-cell" data-grade="10" data-semester="S2" data-period="4" ondrop="dropCourse(event)" ondragover="allowDrop(event)"></td>
+                                        <td class="course-cell" data-grade="11" data-semester="S1" data-period="4" ondrop="dropCourse(event)" ondragover="allowDrop(event)"></td>
+                                        <td class="course-cell" data-grade="11" data-semester="S2" data-period="4" ondrop="dropCourse(event)" ondragover="allowDrop(event)"></td>
+                                        <td class="course-cell" data-grade="12" data-semester="S1" data-period="4" ondrop="dropCourse(event)" ondragover="allowDrop(event)"></td>
+                                        <td class="course-cell" data-grade="12" data-semester="S2" data-period="4" ondrop="dropCourse(event)" ondragover="allowDrop(event)"></td>
+                                    </tr>
+                                    <tr data-period="5">
+                                        <td class="period-cell">World Languages</td>
+                                        <td class="course-cell" data-grade="9" data-semester="S1" data-period="5" ondrop="dropCourse(event)" ondragover="allowDrop(event)"></td>
+                                        <td class="course-cell" data-grade="9" data-semester="S2" data-period="5" ondrop="dropCourse(event)" ondragover="allowDrop(event)"></td>
+                                        <td class="course-cell" data-grade="10" data-semester="S1" data-period="5" ondrop="dropCourse(event)" ondragover="allowDrop(event)"></td>
+                                        <td class="course-cell" data-grade="10" data-semester="S2" data-period="5" ondrop="dropCourse(event)" ondragover="allowDrop(event)"></td>
+                                        <td class="course-cell" data-grade="11" data-semester="S1" data-period="5" ondrop="dropCourse(event)" ondragover="allowDrop(event)"></td>
+                                        <td class="course-cell" data-grade="11" data-semester="S2" data-period="5" ondrop="dropCourse(event)" ondragover="allowDrop(event)"></td>
+                                        <td class="course-cell" data-grade="12" data-semester="S1" data-period="5" ondrop="dropCourse(event)" ondragover="allowDrop(event)"></td>
+                                        <td class="course-cell" data-grade="12" data-semester="S2" data-period="5" ondrop="dropCourse(event)" ondragover="allowDrop(event)"></td>
+                                    </tr>
+                                    <tr data-period="6">
+                                        <td class="period-cell">Visual & Performing Arts</td>
+                                        <td class="course-cell" data-grade="9" data-semester="S1" data-period="6" ondrop="dropCourse(event)" ondragover="allowDrop(event)"></td>
+                                        <td class="course-cell" data-grade="9" data-semester="S2" data-period="6" ondrop="dropCourse(event)" ondragover="allowDrop(event)"></td>
+                                        <td class="course-cell" data-grade="10" data-semester="S1" data-period="6" ondrop="dropCourse(event)" ondragover="allowDrop(event)"></td>
+                                        <td class="course-cell" data-grade="10" data-semester="S2" data-period="6" ondrop="dropCourse(event)" ondragover="allowDrop(event)"></td>
+                                        <td class="course-cell" data-grade="11" data-semester="S1" data-period="6" ondrop="dropCourse(event)" ondragover="allowDrop(event)"></td>
+                                        <td class="course-cell" data-grade="11" data-semester="S2" data-period="6" ondrop="dropCourse(event)" ondragover="allowDrop(event)"></td>
+                                        <td class="course-cell" data-grade="12" data-semester="S1" data-period="6" ondrop="dropCourse(event)" ondragover="allowDrop(event)"></td>
+                                        <td class="course-cell" data-grade="12" data-semester="S2" data-period="6" ondrop="dropCourse(event)" ondragover="allowDrop(event)"></td>
+                                    </tr>
+                                    <tr data-period="7">
+                                        <td class="period-cell">PE & Health</td>
+                                        <td class="course-cell" data-grade="9" data-semester="S1" data-period="7" ondrop="dropCourse(event)" ondragover="allowDrop(event)"></td>
+                                        <td class="course-cell" data-grade="9" data-semester="S2" data-period="7" ondrop="dropCourse(event)" ondragover="allowDrop(event)"></td>
+                                        <td class="course-cell" data-grade="10" data-semester="S1" data-period="7" ondrop="dropCourse(event)" ondragover="allowDrop(event)"></td>
+                                        <td class="course-cell" data-grade="10" data-semester="S2" data-period="7" ondrop="dropCourse(event)" ondragover="allowDrop(event)"></td>
+                                        <td class="course-cell" data-grade="11" data-semester="S1" data-period="7" ondrop="dropCourse(event)" ondragover="allowDrop(event)"></td>
+                                        <td class="course-cell" data-grade="11" data-semester="S2" data-period="7" ondrop="dropCourse(event)" ondragover="allowDrop(event)"></td>
+                                        <td class="course-cell" data-grade="12" data-semester="S1" data-period="7" ondrop="dropCourse(event)" ondragover="allowDrop(event)"></td>
+                                        <td class="course-cell" data-grade="12" data-semester="S2" data-period="7" ondrop="dropCourse(event)" ondragover="allowDrop(event)"></td>
+                                    </tr>
+                                    <tr data-period="8">
+                                        <td class="period-cell">TCR / Catalyst</td>
+                                        <td class="course-cell" data-grade="9" data-semester="S1" data-period="8" ondrop="dropCourse(event)" ondragover="allowDrop(event)"></td>
+                                        <td class="course-cell" data-grade="9" data-semester="S2" data-period="8" ondrop="dropCourse(event)" ondragover="allowDrop(event)"></td>
+                                        <td class="course-cell" data-grade="10" data-semester="S1" data-period="8" ondrop="dropCourse(event)" ondragover="allowDrop(event)"></td>
+                                        <td class="course-cell" data-grade="10" data-semester="S2" data-period="8" ondrop="dropCourse(event)" ondragover="allowDrop(event)"></td>
+                                        <td class="course-cell" data-grade="11" data-semester="S1" data-period="8" ondrop="dropCourse(event)" ondragover="allowDrop(event)"></td>
+                                        <td class="course-cell" data-grade="11" data-semester="S2" data-period="8" ondrop="dropCourse(event)" ondragover="allowDrop(event)"></td>
+                                        <td class="course-cell" data-grade="12" data-semester="S1" data-period="8" ondrop="dropCourse(event)" ondragover="allowDrop(event)"></td>
+                                        <td class="course-cell" data-grade="12" data-semester="S2" data-period="8" ondrop="dropCourse(event)" ondragover="allowDrop(event)"></td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </section>
+                </div>
+            </div>
+
+            <!-- Octagonal Stat Spread Section -->
+            <section class="section octagon-section">
+                <h2>Credit Requirements</h2>
+                <div id="creditOctagon" class="octagon-stat-spread">
+                    <!-- Octagon will be generated here by JavaScript -->
+                </div>
+            </section>
+        </main>
+
+        <!-- Course Detail Modal -->
+        <div id="courseModal" class="modal">
+            <div class="modal-content">
+                <span class="close">&times;</span>
+                <h2 id="modalCourseTitle"></h2>
+                <div class="modal-body">
+                    <div class="modal-info">
+                        <p><strong>SAS Course ID:</strong> <span id="modalCourseId"></span></p>
+                        <p><strong>Grade Level:</strong> <span id="modalCourseGrade"></span></p>
+                        <p><strong>Credits:</strong> <span id="modalCourseCredits"></span></p>
+                        <p><strong>Length:</strong> <span id="modalCourseLength"></span></p>
+                    </div>
+                    <div class="modal-note" id="modalNoteSection" style="display: none;">
+                        <h3>Note</h3>
+                        <p id="modalCourseNote"></p>
+                    </div>
+                    <div class="modal-description">
+                        <h3>Description</h3>
+                        <p id="modalCourseDescription"></p>
+                    </div>
+                    <div class="modal-prerequisites">
+                        <h3>Prerequisites</h3>
+                        <p id="modalCoursePrerequisites"></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
